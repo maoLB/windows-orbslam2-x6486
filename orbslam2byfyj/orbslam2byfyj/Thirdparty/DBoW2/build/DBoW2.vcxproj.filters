@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\BowVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FeatureVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\ScoringObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DUtils\Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DUtils\Timestamp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9A78E044-CC74-3BC8-ADF3-1B47B2551C46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

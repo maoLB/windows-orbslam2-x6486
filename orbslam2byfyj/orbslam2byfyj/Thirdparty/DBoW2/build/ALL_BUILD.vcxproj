@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{713BD259-7A00-3180-833D-A909D176D69A}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+E:\cmake-3.6.0-win64-x64\bin\cmake.exe -HC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2 -BC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/build --check-stamp-file C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCCompiler.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCXXCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeRCCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeRCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig-version.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-debug.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-release.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+E:\cmake-3.6.0-win64-x64\bin\cmake.exe -HC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2 -BC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/build --check-stamp-file C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCCompiler.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCXXCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeRCCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeRCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig-version.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-debug.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-release.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+E:\cmake-3.6.0-win64-x64\bin\cmake.exe -HC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2 -BC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/build --check-stamp-file C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCCompiler.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCXXCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeRCCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeRCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig-version.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-debug.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-release.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+E:\cmake-3.6.0-win64-x64\bin\cmake.exe -HC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2 -BC:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/build --check-stamp-file C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCCompiler.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeCXXCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\3.6.0\CMakeRCCompiler.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeRCInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;E:\cmake-3.6.0-win64-x64\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig-version.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVConfig.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-debug.cmake;C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\x64\vc12\lib\OpenCVModules-release.cmake;C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/build/ZERO_CHECK.vcxproj">
+      <Project>DCFDD554-36F7-37F8-862D-BF02703EAF1F</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Users/FYJ/Desktop/ORB_SLAM2-master/Thirdparty/DBoW2/build/DBoW2.vcxproj">
+      <Project>751F34DD-A7FE-3653-8C55-4726EED0B904</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

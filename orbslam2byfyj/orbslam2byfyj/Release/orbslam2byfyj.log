@@ -1,0 +1,306 @@
+﻿  mono_kitti.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+mono_kitti.cc(95): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+mono_kitti.cc(109): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  Converter.cc
+E:\Code\orbslam2byfyj\orbslam2byfyj\Thirdparty/g2o/g2o/types/types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\Converter.cc(68): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+src\Converter.cc(78): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+src\Converter.cc(87): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+src\Converter.cc(99): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+src\Converter.cc(104): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+src\Converter.cc(143): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+src\Converter.cc(144): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+src\Converter.cc(145): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+src\Converter.cc(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Frame.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Code\orbslam2byfyj\orbslam2byfyj\Thirdparty/g2o/g2o/types/types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\Frame.cc(232): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\Frame.cc(300): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Frame.cc(308): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Frame.cc(384): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+src\Frame.cc(385): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+src\Frame.cc(442): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+src\Frame.cc(443): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+src\Frame.cc(444): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+src\Frame.cc(460): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+src\Frame.cc(462): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+src\Frame.cc(486): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+src\Frame.cc(487): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+src\Frame.cc(509): warning C4244: “参数”: 从“const float”转换到“unsigned int”，可能丢失数据
+src\Frame.cc(561): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+src\Frame.cc(578): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+src\Frame.cc(582): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Frame.cc(585): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+src\Frame.cc(614): warning C4305: “=”: 从“double”到“float”截断
+src\Frame.cc(615): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+src\Frame.cc(625): warning C4244: “初始化”: 从“int”转换到“const float”，可能丢失数据
+src\Frame.cc(654): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+  FrameDrawer.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  Initializer.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\Initializer.cc(333): warning C4305: “初始化”: 从“double”到“const float”截断
+src\Initializer.cc(335): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Initializer.cc(352): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Initializer.cc(368): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Initializer.cc(408): warning C4305: “初始化”: 从“double”到“const float”截断
+src\Initializer.cc(409): warning C4305: “初始化”: 从“double”到“const float”截断
+src\Initializer.cc(411): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Initializer.cc(494): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(495): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(496): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(497): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(591): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(703): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(781): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(782): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(849): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(852): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(854): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(868): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(879): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\Initializer.cc(901): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  KeyFrame.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Code\orbslam2byfyj\orbslam2byfyj\Thirdparty/g2o/g2o/types/types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\KeyFrame.cc(45): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+src\KeyFrame.cc(415): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+src\KeyFrame.cc(655): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  KeyFrameDatabase.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+src\KeyFrameDatabase.cc(120): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\KeyFrameDatabase.cc(133): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\KeyFrameDatabase.cc(235): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\KeyFrameDatabase.cc(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  LocalMapping.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(34): warning C4800: “const float”: 将值强制为布尔值“true”或“false”(性能警告)
+src\LocalMapping.cc(215): warning C4305: “参数”: 从“double”到“float”截断
+src\LocalMapping.cc(247): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(305): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(354): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\LocalMapping.cc(358): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\LocalMapping.cc(364): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(365): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(366): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(391): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(392): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(393): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\LocalMapping.cc(417): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\LocalMapping.cc(420): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  LoopClosing.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\LoopClosing.cc(135): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\LoopClosing.cc(587): warning C4305: “参数”: 从“double”到“float”截断
+  Map.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  MapDrawer.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  MapPoint.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+src\MapPoint.cc(58): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\MapPoint.cc(280): warning C4018: “<”: 有符号/无符号不匹配
+src\MapPoint.cc(292): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+src\MapPoint.cc(293): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+src\MapPoint.cc(304): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+src\MapPoint.cc(337): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+src\MapPoint.cc(370): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\MapPoint.cc(403): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+E:\vs2013\VC\include\xmemory0(600): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+          E:\vs2013\VC\include\xmemory0(723): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<_Objty,float&>(_Objty *,float &)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Objty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(723): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<_Objty,float&>(_Objty *,float &)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Objty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(872): 参见对正在编译的函数 模板 实例化“void std::allocator_traits<_Alloc>::construct<_Ty,float&>(std::allocator<_Ty> &,_Objty *,float &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>
+  ,            _Ty=int
+  ,            _Objty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(872): 参见对正在编译的函数 模板 实例化“void std::allocator_traits<_Alloc>::construct<_Ty,float&>(std::allocator<_Ty> &,_Objty *,float &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>
+  ,            _Ty=int
+  ,            _Objty=int
+          ]
+          E:\vs2013\VC\include\xmemory(378): 参见对正在编译的函数 模板 实例化“void std::_Wrap_alloc<std::allocator<_Ty>>::construct<int,float&>(_Ty *,float &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory(378): 参见对正在编译的函数 模板 实例化“void std::_Wrap_alloc<std::allocator<_Ty>>::construct<int,float&>(_Ty *,float &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory(416): 参见对正在编译的函数 模板 实例化“_FwdIt std::_Uninit_copy<_InIt,_FwdIt,std::allocator<_Ty>>(_InIt,_InIt,_FwdIt,std::_Wrap_alloc<std::allocator<_Ty>> &,std::_Nonscalar_ptr_iterator_tag)”的引用
+          with
+          [
+              _FwdIt=int *
+  ,            _InIt=float *
+  ,            _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory(427): 参见对正在编译的函数 模板 实例化“_FwdIt std::_Uninit_copy<_Iter,int,_Alloc>(_InIt,_InIt,_FwdIt,_Alloc &)”的引用
+          with
+          [
+              _FwdIt=int *
+  ,            _Iter=float *
+  ,            _Alloc=std::_Wrap_alloc<std::allocator<int>>
+  ,            _InIt=float *
+          ]
+          E:\vs2013\VC\include\vector(1640): 参见对正在编译的函数 模板 实例化“_FwdIt std::_Uninitialized_copy<_Iter,int*,std::_Wrap_alloc<std::allocator<_Ty>>>(_InIt,_InIt,_FwdIt,_Alloc &)”的引用
+          with
+          [
+              _FwdIt=int *
+  ,            _Iter=float *
+  ,            _Ty=int
+  ,            _InIt=float *
+  ,            _Alloc=std::_Wrap_alloc<std::allocator<int>>
+          ]
+          E:\vs2013\VC\include\vector(789): 参见对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<_Ty>>::_Ucopy<_Iter>(_Iter,_Iter,int *)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          E:\vs2013\VC\include\vector(789): 参见对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<_Ty>>::_Ucopy<_Iter>(_Iter,_Iter,int *)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          E:\vs2013\VC\include\vector(766): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Construct<_Iter>(_Iter,_Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          E:\vs2013\VC\include\vector(766): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Construct<_Iter>(_Iter,_Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          E:\vs2013\VC\include\vector(751): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Construct<_Iter>(_Iter,_Iter)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          E:\vs2013\VC\include\vector(751): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Construct<_Iter>(_Iter,_Iter)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          src\MapPoint.cc(302): 参见对正在编译的函数 模板 实例化“std::vector<int,std::allocator<_Ty>>::vector<float*,void>(_Iter,_Iter)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+          src\MapPoint.cc(302): 参见对正在编译的函数 模板 实例化“std::vector<int,std::allocator<_Ty>>::vector<float*,void>(_Iter,_Iter)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=float *
+          ]
+  Optimizer.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(85): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(86): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(273): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(274): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(369): warning C4305: “初始化”: 从“double”到“const float”截断
+src\Optimizer.cc(370): warning C4305: “初始化”: 从“double”到“const float”截断
+src\Optimizer.cc(393): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(422): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(569): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Optimizer.cc(570): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  ORBmatcher.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+src\ORBmatcher.cc(243): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\ORBmatcher.cc(302): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(348): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(427): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(480): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\ORBmatcher.cc(612): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\ORBmatcher.cc(771): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\ORBmatcher.cc(877): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(989): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1021): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1036): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1168): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1181): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1248): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1261): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1367): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1438): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\ORBmatcher.cc(1504): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\ORBmatcher.cc(1516): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\ORBmatcher.cc(1567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  PnPsolver.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+src\PnPsolver.cc(134): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+src\PnPsolver.cc(150): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+src\PnPsolver.cc(317): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\PnPsolver.cc(318): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\PnPsolver.cc(319): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\PnPsolver.cc(324): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+src\PnPsolver.cc(325): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Sim3Solver.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+src\Sim3Solver.cc(87): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+src\Sim3Solver.cc(88): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+src\Sim3Solver.cc(133): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+src\Sim3Solver.cc(308): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+src\Sim3Solver.cc(353): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Sim3Solver.cc(354): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  System.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\System.cc(94): warning C4316: “ORB_SLAM2::LoopClosing”: 在堆上分配的对象可能不是对齐 16
+E:\Code\orbslam2byfyj\orbslam2byfyj\Thirdparty/DBoW2/DBoW2/TemplatedVocabulary.h(1374): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+          E:\Code\orbslam2byfyj\orbslam2byfyj\Thirdparty/DBoW2/DBoW2/TemplatedVocabulary.h(1339): 编译类 模板 成员函数“bool DBoW2::TemplatedVocabulary<DBoW2::FORB::TDescriptor,DBoW2::FORB>::loadFromTextFile(const std::string &)”时
+          src\System.cc(65): 参见对正在编译的函数 模板 实例化“bool DBoW2::TemplatedVocabulary<DBoW2::FORB::TDescriptor,DBoW2::FORB>::loadFromTextFile(const std::string &)”的引用
+          src\System.cc(64): 参见对正在编译的类 模板 实例化“DBoW2::TemplatedVocabulary<DBoW2::FORB::TDescriptor,DBoW2::FORB>”的引用
+  Tracking.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+src\Tracking.cc(87): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+src\Tracking.cc(104): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+src\Tracking.cc(228): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+src\Tracking.cc(599): warning C4305: “参数”: 从“double”到“float”截断
+src\Tracking.cc(764): warning C4305: “参数”: 从“double”到“float”截断
+src\Tracking.cc(869): warning C4305: “参数”: 从“double”到“float”截断
+src\Tracking.cc(885): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+src\Tracking.cc(891): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+src\Tracking.cc(1027): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+src\Tracking.cc(1197): warning C4305: “参数”: 从“double”到“float”截断
+src\Tracking.cc(1204): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+src\Tracking.cc(1399): warning C4305: “参数”: 从“double”到“float”截断
+src\Tracking.cc(1409): warning C4305: “参数”: 从“double”到“float”截断
+  Viewer.cc
+e:\code\orbslam2byfyj\orbslam2byfyj\include\ORBextractor.h(67): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\code\orbslam2byfyj\orbslam2byfyj\thirdparty\g2o\g2o\types\types_six_dof_expmap.h(126): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+  orbslam2byfyj.vcxproj -> E:\Code\orbslam2byfyj\Release\orbslam2byfyj.exe

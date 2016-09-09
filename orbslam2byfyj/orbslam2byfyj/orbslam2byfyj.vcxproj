@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A6D18FD9-728C-4946-B5E9-368CD47DCDD9}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>orbslam2byfyj</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>E:\OpenCV 2.4.9\opencv\build\include;E:\eigen3;E:\Code\orbslam2byfyj\orbslam2byfyj;E:\Code\orbslam2byfyj\orbslam2byfyj\include;E:\OpenCV 2.4.9\opencv\build\include\opencv;E:\OpenCV 2.4.9\opencv\build\include\opencv2;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\OpenCV 2.4.9\opencv\build\x86\vc12\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>E:\OpenCV 2.4.9\opencv\build\include;E:\Code\orbslam2byfyj\orbslam2byfyj\include;E:\Code\orbslam2byfyj\orbslam2byfyj;E:\eigen3;E:\OpenCV 2.4.9\opencv\build\include\opencv2;E:\OpenCV 2.4.9\opencv\build\include\opencv;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\OpenCV 2.4.9\opencv\build\x64\vc12\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_LIB;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>opencv_calib3d249.lib;opencv_contrib249.lib;opencv_core249.lib;opencv_features2d249.lib;opencv_flann249.lib;opencv_gpu249.lib;opencv_highgui249.lib;opencv_imgproc249.lib;opencv_legacy249.lib;opencv_ml249.lib;opencv_nonfree249.lib;opencv_objdetect249.lib;opencv_photo249.lib;opencv_stitching249.lib;opencv_ts249.lib;opencv_video249.lib;opencv_videostab249.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Link>
+      <AdditionalDependencies>opencv_calib3d249.lib;opencv_contrib249.lib;opencv_core249.lib;opencv_features2d249.lib;opencv_flann249.lib;opencv_gpu249.lib;opencv_highgui249.lib;opencv_imgproc249.lib;opencv_legacy249.lib;opencv_ml249.lib;opencv_nonfree249.lib;opencv_objdetect249.lib;opencv_photo249.lib;opencv_stitching249.lib;opencv_ts249.lib;opencv_video249.lib;opencv_videostab249.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="DBow2\DBoW2\BowVector.h" />
+    <ClInclude Include="DBow2\DBoW2\FClass.h" />
+    <ClInclude Include="DBow2\DBoW2\FeatureVector.h" />
+    <ClInclude Include="DBow2\DBoW2\FORB.h" />
+    <ClInclude Include="DBow2\DBoW2\ScoringObject.h" />
+    <ClInclude Include="DBow2\DBoW2\TemplatedVocabulary.h" />
+    <ClInclude Include="DBow2\DUtils\Random.h" />
+    <ClInclude Include="DBow2\DUtils\Timestamp.h" />
+    <ClInclude Include="g2o\core\base_binary_edge.h" />
+    <ClInclude Include="g2o\core\base_binary_edge.hpp" />
+    <ClInclude Include="g2o\core\base_edge.h" />
+    <ClInclude Include="g2o\core\base_multi_edge.h" />
+    <ClInclude Include="g2o\core\base_multi_edge.hpp" />
+    <ClInclude Include="g2o\core\base_unary_edge.h" />
+    <ClInclude Include="g2o\core\base_unary_edge.hpp" />
+    <ClInclude Include="g2o\core\base_vertex.h" />
+    <ClInclude Include="g2o\core\base_vertex.hpp" />
+    <ClInclude Include="g2o\core\batch_stats.h" />
+    <ClInclude Include="g2o\core\block_solver.h" />
+    <ClInclude Include="g2o\core\block_solver.hpp" />
+    <ClInclude Include="g2o\core\cache.h" />
+    <ClInclude Include="g2o\core\creators.h" />
+    <ClInclude Include="g2o\core\eigen_types.h" />
+    <ClInclude Include="g2o\core\estimate_propagator.h" />
+    <ClInclude Include="g2o\core\factory.h" />
+    <ClInclude Include="g2o\core\hyper_dijkstra.h" />
+    <ClInclude Include="g2o\core\hyper_graph.h" />
+    <ClInclude Include="g2o\core\hyper_graph_action.h" />
+    <ClInclude Include="g2o\core\jacobian_workspace.h" />
+    <ClInclude Include="g2o\core\linear_solver.h" />
+    <ClInclude Include="g2o\core\marginal_covariance_cholesky.h" />
+    <ClInclude Include="g2o\core\matrix_operations.h" />
+    <ClInclude Include="g2o\core\matrix_structure.h" />
+    <ClInclude Include="g2o\core\openmp_mutex.h" />
+    <ClInclude Include="g2o\core\optimizable_graph.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm_dogleg.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm_factory.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm_gauss_newton.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm_levenberg.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm_property.h" />
+    <ClInclude Include="g2o\core\optimization_algorithm_with_hessian.h" />
+    <ClInclude Include="g2o\core\parameter.h" />
+    <ClInclude Include="g2o\core\parameter_container.h" />
+    <ClInclude Include="g2o\core\robust_kernel.h" />
+    <ClInclude Include="g2o\core\robust_kernel_factory.h" />
+    <ClInclude Include="g2o\core\robust_kernel_impl.h" />
+    <ClInclude Include="g2o\core\solver.h" />
+    <ClInclude Include="g2o\core\sparse_block_matrix.h" />
+    <ClInclude Include="g2o\core\sparse_block_matrix.hpp" />
+    <ClInclude Include="g2o\core\sparse_block_matrix_ccs.h" />
+    <ClInclude Include="g2o\core\sparse_block_matrix_diagonal.h" />
+    <ClInclude Include="g2o\core\sparse_optimizer.h" />
+    <ClInclude Include="g2o\solvers\linear_solver_dense.h" />
+    <ClInclude Include="g2o\solvers\linear_solver_eigen.h" />
+    <ClInclude Include="g2o\stuff\color_macros.h" />
+    <ClInclude Include="g2o\stuff\macros.h" />
+    <ClInclude Include="g2o\stuff\misc.h" />
+    <ClInclude Include="g2o\stuff\os_specific.h" />
+    <ClInclude Include="g2o\stuff\property.h" />
+    <ClInclude Include="g2o\stuff\string_tools.h" />
+    <ClInclude Include="g2o\stuff\timeutil.h" />
+    <ClInclude Include="g2o\types\se3quat.h" />
+    <ClInclude Include="g2o\types\se3_ops.h" />
+    <ClInclude Include="g2o\types\se3_ops.hpp" />
+    <ClInclude Include="g2o\types\sim3.h" />
+    <ClInclude Include="g2o\types\types_sba.h" />
+    <ClInclude Include="g2o\types\types_seven_dof_expmap.h" />
+    <ClInclude Include="g2o\types\types_six_dof_expmap.h" />
+    <ClInclude Include="include\Converter.h" />
+    <ClInclude Include="include\Frame.h" />
+    <ClInclude Include="include\FrameDrawer.h" />
+    <ClInclude Include="include\Initializer.h" />
+    <ClInclude Include="include\KeyFrame.h" />
+    <ClInclude Include="include\KeyFrameDatabase.h" />
+    <ClInclude Include="include\LocalMapping.h" />
+    <ClInclude Include="include\LoopClosing.h" />
+    <ClInclude Include="include\Map.h" />
+    <ClInclude Include="include\MapDrawer.h" />
+    <ClInclude Include="include\MapPoint.h" />
+    <ClInclude Include="include\Optimizer.h" />
+    <ClInclude Include="include\ORBextractor.h" />
+    <ClInclude Include="include\ORBmatcher.h" />
+    <ClInclude Include="include\ORBVocabulary.h" />
+    <ClInclude Include="include\PnPsolver.h" />
+    <ClInclude Include="include\Sim3Solver.h" />
+    <ClInclude Include="include\System.h" />
+    <ClInclude Include="include\Tracking.h" />
+    <ClInclude Include="include\Viewer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DBow2\DBoW2\BowVector.cpp" />
+    <ClCompile Include="DBow2\DBoW2\FeatureVector.cpp" />
+    <ClCompile Include="DBow2\DBoW2\FORB.cpp" />
+    <ClCompile Include="DBow2\DBoW2\ScoringObject.cpp" />
+    <ClCompile Include="DBow2\DUtils\Random.cpp" />
+    <ClCompile Include="DBow2\DUtils\Timestamp.cpp" />
+    <ClCompile Include="g2o\core\batch_stats.cpp" />
+    <ClCompile Include="g2o\core\cache.cpp" />
+    <ClCompile Include="g2o\core\estimate_propagator.cpp" />
+    <ClCompile Include="g2o\core\factory.cpp" />
+    <ClCompile Include="g2o\core\hyper_dijkstra.cpp" />
+    <ClCompile Include="g2o\core\hyper_graph.cpp" />
+    <ClCompile Include="g2o\core\hyper_graph_action.cpp" />
+    <ClCompile Include="g2o\core\jacobian_workspace.cpp" />
+    <ClCompile Include="g2o\core\marginal_covariance_cholesky.cpp" />
+    <ClCompile Include="g2o\core\matrix_structure.cpp" />
+    <ClCompile Include="g2o\core\optimizable_graph.cpp" />
+    <ClCompile Include="g2o\core\optimization_algorithm.cpp" />
+    <ClCompile Include="g2o\core\optimization_algorithm_dogleg.cpp" />
+    <ClCompile Include="g2o\core\optimization_algorithm_factory.cpp" />
+    <ClCompile Include="g2o\core\optimization_algorithm_gauss_newton.cpp" />
+    <ClCompile Include="g2o\core\optimization_algorithm_levenberg.cpp" />
+    <ClCompile Include="g2o\core\optimization_algorithm_with_hessian.cpp" />
+    <ClCompile Include="g2o\core\parameter.cpp" />
+    <ClCompile Include="g2o\core\parameter_container.cpp" />
+    <ClCompile Include="g2o\core\robust_kernel.cpp" />
+    <ClCompile Include="g2o\core\robust_kernel_factory.cpp" />
+    <ClCompile Include="g2o\core\robust_kernel_impl.cpp" />
+    <ClCompile Include="g2o\core\solver.cpp" />
+    <ClCompile Include="g2o\core\sparse_optimizer.cpp" />
+    <ClCompile Include="g2o\stuff\os_specific.c" />
+    <ClCompile Include="g2o\stuff\property.cpp" />
+    <ClCompile Include="g2o\stuff\string_tools.cpp" />
+    <ClCompile Include="g2o\stuff\timeutil.cpp" />
+    <ClCompile Include="g2o\types\types_sba.cpp" />
+    <ClCompile Include="g2o\types\types_seven_dof_expmap.cpp" />
+    <ClCompile Include="g2o\types\types_six_dof_expmap.cpp" />
+    <ClCompile Include="mono_kitti.cc" />
+    <ClCompile Include="src\Converter.cc" />
+    <ClCompile Include="src\Frame.cc" />
+    <ClCompile Include="src\FrameDrawer.cc" />
+    <ClCompile Include="src\Initializer.cc" />
+    <ClCompile Include="src\KeyFrame.cc" />
+    <ClCompile Include="src\KeyFrameDatabase.cc" />
+    <ClCompile Include="src\LocalMapping.cc" />
+    <ClCompile Include="src\LoopClosing.cc" />
+    <ClCompile Include="src\Map.cc" />
+    <ClCompile Include="src\MapDrawer.cc" />
+    <ClCompile Include="src\MapPoint.cc" />
+    <ClCompile Include="src\Optimizer.cc" />
+    <ClCompile Include="src\ORBextractor.cc" />
+    <ClCompile Include="src\ORBmatcher.cc" />
+    <ClCompile Include="src\PnPsolver.cc" />
+    <ClCompile Include="src\Sim3Solver.cc" />
+    <ClCompile Include="src\System.cc" />
+    <ClCompile Include="src\Tracking.cc" />
+    <ClCompile Include="src\Viewer.cc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

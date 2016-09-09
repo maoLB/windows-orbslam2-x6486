@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\build\CMakeFiles\1fa77ff83bd19f68412c31365e0939ce\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4182C2C5-8066-3817-9DA0-516DAB8A7133}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

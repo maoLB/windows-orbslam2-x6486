@@ -1,0 +1,1728 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“-O3”
+cl : 命令行 warning D9002: 忽略未知选项“-march=native”
+  FORB.cpp
+E:\vs2013\VC\include\math.h(39): warning C4820: “_exception”:“4”字节填充添加在 数据成员“_exception::type”后
+E:\vs2013\VC\include\wchar.h(58): warning C4820: “_iobuf”:“4”字节填充添加在 数据成员“_iobuf::_cnt”后
+E:\vs2013\VC\include\wchar.h(119): warning C4820: “_wfinddata64i32_t”:“4”字节填充添加在 数据成员“_wfinddata64i32_t::attrib”后
+E:\vs2013\VC\include\wchar.h(124): warning C4820: “_wfinddata64i32_t”:“4”字节填充添加在 数据成员“_wfinddata64i32_t::name”后
+E:\vs2013\VC\include\wchar.h(128): warning C4820: “_wfinddata64_t”:“4”字节填充添加在 数据成员“_wfinddata64_t::attrib”后
+E:\vs2013\VC\include\wchar.h(508): warning C4820: “_stat32”:“2”字节填充添加在 数据成员“_stat32::st_gid”后
+E:\vs2013\VC\include\wchar.h(524): warning C4820: “stat”:“2”字节填充添加在 数据成员“stat::st_gid”后
+E:\vs2013\VC\include\wchar.h(540): warning C4820: “_stat32i64”:“2”字节填充添加在 数据成员“_stat32i64::st_gid”后
+E:\vs2013\VC\include\wchar.h(541): warning C4820: “_stat32i64”:“4”字节填充添加在 数据成员“_stat32i64::st_rdev”后
+E:\vs2013\VC\include\wchar.h(545): warning C4820: “_stat32i64”:“4”字节填充添加在 数据成员“_stat32i64::st_ctime”后
+E:\vs2013\VC\include\wchar.h(554): warning C4820: “_stat64i32”:“2”字节填充添加在 数据成员“_stat64i32::st_gid”后
+E:\vs2013\VC\include\wchar.h(568): warning C4820: “_stat64”:“2”字节填充添加在 数据成员“_stat64::st_gid”后
+E:\vs2013\VC\include\wchar.h(569): warning C4820: “_stat64”:“4”字节填充添加在 数据成员“_stat64::st_rdev”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/ptr.inl.hpp(89): warning C4820: “cv::detail::PtrOwner”:“4”字节填充添加在 数据成员“cv::detail::PtrOwner::refCount”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(143): warning C4365: “return”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(144): warning C4365: “return”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(2171): warning C4946: reinterpret_cast 在相关类之间使用: “cv::Matx<double,4,1>”和“cv::Scalar_<double>”
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/bufferpool.hpp(25): warning C4265: “cv::BufferPoolController”: 类有虚函数，但析构函数不是虚拟的
+          该类的实例可能不能正确析构
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(234): warning C4820: “cv::_InputArray”:“4”字节填充添加在 数据成员“cv::_InputArray::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(503): warning C4820: “cv::UMatData”:“4”字节填充添加在 数据成员“cv::UMatData::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2336): warning C4820: “cv::UMat”:“4”字节填充添加在 数据成员“cv::UMat::usageFlags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2444): warning C4820: “cv::SparseMat::Hdr”:“4”字节填充添加在 数据成员“cv::SparseMat::Hdr::valueOffset”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2688): warning C4820: “cv::SparseMat”:“4”字节填充添加在 数据成员“cv::SparseMat::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3182): warning C4820: “cv::NAryMatIterator”:“4”字节填充添加在 数据成员“cv::NAryMatIterator::narrays”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3187): warning C4820: “cv::NAryMatIterator”:“4”字节填充添加在 数据成员“cv::NAryMatIterator::iterdepth”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3313): warning C4820: “cv::MatExpr”:“4”字节填充添加在 数据成员“cv::MatExpr::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(412): warning C4365: “初始化”: 从“int”转换到“size_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(445): warning C4365: “初始化”: 从“int”转换到“size_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(1886): warning C4365: “return”: 从“int”转换到“size_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2376): warning C4365: “初始化”: 从“size_t”转换到“ptrdiff_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2472): warning C4365: “return”: 从“const size_t”转换到“ptrdiff_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(438): warning C4820: “cv::FileStorage”:“4”字节填充添加在 数据成员“cv::FileStorage::state”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(634): warning C4820: “cv::FileNodeIterator::SeqReader”:“4”字节填充添加在 数据成员“cv::FileNodeIterator::SeqReader::header_size”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(640): warning C4820: “cv::FileNodeIterator::SeqReader”:“4”字节填充添加在 数据成员“cv::FileNodeIterator::SeqReader::delta_index”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1154): warning C4365: “return”: 从“const size_t”转换到“ptrdiff_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(132): warning C4820: “cv::Exception”:“4”字节填充添加在 数据成员“cv::Exception::code”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(136): warning C4820: “cv::Exception”:“4”字节填充添加在 数据成员“cv::Exception::line”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2484): warning C4820: “cv::LDA”:“3”字节填充添加在 数据成员“cv::LDA::_dataAsRow”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(345): warning C4365: “参数”: 从“unsigned int”转换到“int”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(341): warning C4365: “return”: 从“int”转换到“size_t”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(508): warning C4820: “cv::TLSDataContainer”:“4”字节填充添加在 数据成员“cv::TLSDataContainer::key_”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(325): warning C4820: “_IplImage”:“4”字节填充添加在 数据成员“_IplImage::imageSize”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(329): warning C4820: “_IplImage”:“4”字节填充添加在 数据成员“_IplImage::BorderConst”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(360): warning C4820: “_IplConvKernel”:“4”字节填充添加在 数据成员“_IplConvKernel::nShiftR”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(439): warning C4820: “CvMat”:“4”字节填充添加在 数据成员“CvMat::hdr_refcount”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(605): warning C4365: “return”: 从“unsigned __int64”转换到“int”，有符号/无符号不匹配
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(641): warning C4820: “CvMatND”:“4”字节填充添加在 数据成员“CvMatND::hdr_refcount”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(684): warning C4820: “CvSparseMat”:“4”字节填充添加在 数据成员“CvSparseMat::hdr_refcount”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(694): warning C4820: “CvSparseMat”:“4”字节填充添加在 数据成员“CvSparseMat::size”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(713): warning C4820: “CvSparseNode”:“4”字节填充添加在 数据成员“CvSparseNode::hashval”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(722): warning C4820: “CvSparseMatIterator”:“4”字节填充添加在 数据成员“CvSparseMatIterator::curidx”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(751): warning C4820: “CvHistogram”:“4”字节填充添加在 数据成员“CvHistogram::type”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1089): warning C4820: “CvLineIterator”:“4”字节填充添加在 数据成员“CvLineIterator::minus_step”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1192): warning C4820: “CvMemStorage”:“4”字节填充添加在 数据成员“CvMemStorage::signature”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1209): warning C4820: “CvMemStoragePos”:“4”字节填充添加在 数据成员“CvMemStoragePos::free_space”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1252): warning C4820: “CvSeq”:“4”字节填充添加在 数据成员“CvSeq::delta_elems”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1271): warning C4820: “CvSetElem”:“4”字节填充添加在 数据成员“CvSetElem::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1282): warning C4820: “CvSet”:“4”字节填充添加在 数据成员“CvSet::delta_elems”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1283): warning C4820: “CvSet”:“4”字节填充添加在 数据成员“CvSet::active_count”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1335): warning C4820: “CvGraphVtx”:“4”字节填充添加在 数据成员“CvGraphVtx::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1341): warning C4820: “CvGraphVtx2D”:“4”字节填充添加在 数据成员“CvGraphVtx2D::flags”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1356): warning C4820: “CvGraph”:“4”字节填充添加在 数据成员“CvGraph::delta_elems”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1356): warning C4820: “CvGraph”:“4”字节填充添加在 数据成员“CvGraph::active_count”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1368): warning C4820: “CvChain”:“4”字节填充添加在 数据成员“CvChain::delta_elems”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1381): warning C4820: “CvContour”:“4”字节填充添加在 数据成员“CvContour::delta_elems”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1524): warning C4820: “CvSeqWriter”:“4”字节填充添加在 数据成员“CvSeqWriter::header_size”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1541): warning C4820: “CvSeqReader”:“4”字节填充添加在 数据成员“CvSeqReader::header_size”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1541): warning C4820: “CvSeqReader”:“4”字节填充添加在 数据成员“CvSeqReader::delta_index”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1737): warning C4820: “CvString”:“4”字节填充添加在 数据成员“CvString::len”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1746): warning C4820: “CvStringHashNode”:“4”字节填充添加在 数据成员“CvStringHashNode::hashval”后
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1757): warning C4820: “CvFileNode”:“4”字节填充添加在 数据成员“CvFileNode::tag”后
+c:\users\fyj\desktop\orb_slam2-master\thirdparty\dbow2\dbow2\FORB.h(38): warning C4263: “void DBoW2::FORB::meanValue(const std::vector<DBoW2::FORB::pDescriptor,std::allocator<_Ty>> &,DBoW2::FORB::TDescriptor &)”: 成员函数不重写任何基类虚拟成员函数
+          with
+          [
+              _Ty=DBoW2::FORB::pDescriptor
+          ]
+c:\users\fyj\desktop\orb_slam2-master\thirdparty\dbow2\dbow2\FORB.h(74): warning C4264: “void DBoW2::FClass::meanValue(const std::vector<DBoW2::FClass::pDescriptor,std::allocator<_Ty>> &,DBoW2::FClass::TDescriptor &)”: 不重写基“DBoW2::FClass”中的虚拟成员函数；函数被隐藏
+          with
+          [
+              _Ty=DBoW2::FClass::pDescriptor
+          ]
+          c:\users\fyj\desktop\orb_slam2-master\thirdparty\dbow2\dbow2\FClass.h(35) : 参见“DBoW2::FClass::meanValue”的声明
+          c:\users\fyj\desktop\orb_slam2-master\thirdparty\dbow2\dbow2\FClass.h(26) : 参见“DBoW2::FClass”的声明
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(56): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(57): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(58): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(59): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(60): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(61): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(62): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(63): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(70): warning C4365: “初始化”: 从“unsigned __int64”转换到“const int”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(99): warning C4365: “初始化”: 从“const int”转换到“unsigned int”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(155): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(155): warning C4365: “参数”: 从“const size_t”转换到“int”，有符号/无符号不匹配
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(165): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(166): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(168): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(169): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(170): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(171): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(172): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(182): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(182): warning C4365: “参数”: 从“unsigned __int64”转换到“int”，有符号/无符号不匹配
+E:\vs2013\VC\include\xstring(684): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<char>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<char>>>(_Other &) throw()”
+          with
+          [
+              _Other=std::_Wrap_alloc<std::allocator<char>>
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\xstring(683): 编译类 模板 成员函数“std::_Wrap_alloc<std::allocator<char>> std::_String_alloc<false,std::_String_base_types<_Elem,_Alloc>>::_Getal(void) const”时
+          with
+          [
+              _Elem=char
+  ,            _Alloc=std::allocator<char>
+          ]
+          E:\vs2013\VC\include\xstring(724): 参见对正在编译的函数 模板 实例化“std::_Wrap_alloc<std::allocator<char>> std::_String_alloc<false,std::_String_base_types<_Elem,_Alloc>>::_Getal(void) const”的引用
+          with
+          [
+              _Elem=char
+  ,            _Alloc=std::allocator<char>
+          ]
+          E:\vs2013\VC\include\xstring(695): 参见对正在编译的类 模板 实例化“std::_String_alloc<false,std::_String_base_types<_Elem,_Alloc>>”的引用
+          with
+          [
+              _Elem=char
+  ,            _Alloc=std::allocator<char>
+          ]
+          E:\vs2013\VC\include\stdexcept(31): 参见对正在编译的类 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的引用
+E:\vs2013\VC\include\xmemory0(779): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc(const std::allocator<char> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc<std::allocator<char>>(_Other &) throw()”
+          with
+          [
+              _Other=std::allocator<char>
+          ]
+          E:\vs2013\VC\include\xmemory0(804) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\xmemory0(778): 编译类 模板 成员函数“std::_Wrap_alloc<std::allocator<char>> std::_Wrap_alloc<std::allocator<char>>::select_on_container_copy_construction(void) const”时
+          E:\vs2013\VC\include\xstring(724): 参见对正在编译的函数 模板 实例化“std::_Wrap_alloc<std::allocator<char>> std::_Wrap_alloc<std::allocator<char>>::select_on_container_copy_construction(void) const”的引用
+          E:\vs2013\VC\include\xstring(455): 参见对正在编译的类 模板 实例化“std::_Wrap_alloc<std::allocator<char>>”的引用
+          E:\vs2013\VC\include\xstring(621): 参见对正在编译的类 模板 实例化“std::_String_base_types<_Elem,_Alloc>”的引用
+          with
+          [
+              _Elem=char
+  ,            _Alloc=std::allocator<char>
+          ]
+          E:\vs2013\VC\include\xmemory0(804) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          E:\vs2013\VC\include\xmemory0(804) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<char>>::_Wrap_alloc”的声明
+E:\vs2013\VC\include\xstring(684): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<wchar_t>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<wchar_t>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<wchar_t>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<wchar_t>>>(_Other &) throw()”
+          with
+          [
+              _Other=std::_Wrap_alloc<std::allocator<wchar_t>>
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<wchar_t>>::_Wrap_alloc”的声明
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<wchar_t>>::_Wrap_alloc”的声明
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\xstring(683): 编译类 模板 成员函数“std::_Wrap_alloc<std::allocator<wchar_t>> std::_String_alloc<false,std::_String_base_types<_Elem,_Alloc>>::_Getal(void) const”时
+          with
+          [
+              _Elem=wchar_t
+  ,            _Alloc=std::allocator<wchar_t>
+          ]
+          E:\vs2013\VC\include\xstring(887): 参见对正在编译的函数 模板 实例化“std::_Wrap_alloc<std::allocator<wchar_t>> std::_String_alloc<false,std::_String_base_types<_Elem,_Alloc>>::_Getal(void) const”的引用
+          with
+          [
+              _Elem=wchar_t
+  ,            _Alloc=std::allocator<wchar_t>
+          ]
+          E:\vs2013\VC\include\xstring(695): 参见对正在编译的类 模板 实例化“std::_String_alloc<false,std::_String_base_types<_Elem,_Alloc>>”的引用
+          with
+          [
+              _Elem=wchar_t
+  ,            _Alloc=std::allocator<wchar_t>
+          ]
+          E:\vs2013\VC\include\string(363): 参见对正在编译的类 模板 实例化“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>”的引用
+E:\vs2013\VC\include\vector(1566): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(1565): 编译类 模板 成员函数“void std::vector<int,std::allocator<_Ty>>::_Destroy(int *,int *)”时
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\vector(1626): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Destroy(int *,int *)”的引用
+          with
+          [
+              _Ty=int
+          ]
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(670): 参见对正在编译的类 模板 实例化“std::vector<int,std::allocator<_Ty>>”的引用
+          with
+          [
+              _Ty=int
+          ]
+E:\vs2013\VC\include\vector(1747): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(1746): 编译类 模板 成员函数“int *std::vector<int,std::allocator<_Ty>>::_Ufill(int *,unsigned __int64,const int *)”时
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\vector(802): 参见对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<_Ty>>::_Ufill(int *,unsigned __int64,const int *)”的引用
+          with
+          [
+              _Ty=int
+          ]
+E:\vs2013\VC\include\vector(642): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(641): 编译类 模板 成员函数“std::_Wrap_alloc<std::allocator<_Ty>> std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>::_Getal(void) const”时
+          with
+          [
+              _Ty=int
+  ,            _Alloc=std::allocator<int>
+          ]
+          E:\vs2013\VC\include\vector(1628): 参见对正在编译的函数 模板 实例化“std::_Wrap_alloc<std::allocator<_Ty>> std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>::_Getal(void) const”的引用
+          with
+          [
+              _Ty=int
+  ,            _Alloc=std::allocator<int>
+          ]
+          E:\vs2013\VC\include\vector(652): 参见对正在编译的类 模板 实例化“std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>”的引用
+          with
+          [
+              _Ty=int
+  ,            _Alloc=std::allocator<int>
+          ]
+E:\vs2013\VC\include\vector(1566): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=uchar
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=uchar
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=uchar
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(1565): 编译类 模板 成员函数“void std::vector<uchar,std::allocator<_Ty>>::_Destroy(unsigned char *,unsigned char *)”时
+          with
+          [
+              _Ty=uchar
+          ]
+          E:\vs2013\VC\include\vector(1626): 参见对正在编译的函数 模板 实例化“void std::vector<uchar,std::allocator<_Ty>>::_Destroy(unsigned char *,unsigned char *)”的引用
+          with
+          [
+              _Ty=uchar
+          ]
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2447): 参见对正在编译的类 模板 实例化“std::vector<uchar,std::allocator<_Ty>>”的引用
+          with
+          [
+              _Ty=uchar
+          ]
+E:\vs2013\VC\include\vector(642): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=uchar
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=uchar
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=uchar
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(641): 编译类 模板 成员函数“std::_Wrap_alloc<std::allocator<_Ty>> std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>::_Getal(void) const”时
+          with
+          [
+              _Ty=uchar
+  ,            _Alloc=std::allocator<uchar>
+          ]
+          E:\vs2013\VC\include\vector(1628): 参见对正在编译的函数 模板 实例化“std::_Wrap_alloc<std::allocator<_Ty>> std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>::_Getal(void) const”的引用
+          with
+          [
+              _Ty=uchar
+  ,            _Alloc=std::allocator<uchar>
+          ]
+          E:\vs2013\VC\include\vector(652): 参见对正在编译的类 模板 实例化“std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>”的引用
+          with
+          [
+              _Ty=uchar
+  ,            _Alloc=std::allocator<uchar>
+          ]
+E:\vs2013\VC\include\vector(1566): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=size_t
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=size_t
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=size_t
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(1565): 编译类 模板 成员函数“void std::vector<size_t,std::allocator<_Ty>>::_Destroy(unsigned __int64 *,unsigned __int64 *)”时
+          with
+          [
+              _Ty=size_t
+          ]
+          E:\vs2013\VC\include\vector(1626): 参见对正在编译的函数 模板 实例化“void std::vector<size_t,std::allocator<_Ty>>::_Destroy(unsigned __int64 *,unsigned __int64 *)”的引用
+          with
+          [
+              _Ty=size_t
+          ]
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2448): 参见对正在编译的类 模板 实例化“std::vector<size_t,std::allocator<_Ty>>”的引用
+          with
+          [
+              _Ty=size_t
+          ]
+E:\vs2013\VC\include\vector(642): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=size_t
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=size_t
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=size_t
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(641): 编译类 模板 成员函数“std::_Wrap_alloc<std::allocator<_Ty>> std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>::_Getal(void) const”时
+          with
+          [
+              _Ty=size_t
+  ,            _Alloc=std::allocator<size_t>
+          ]
+          E:\vs2013\VC\include\vector(1628): 参见对正在编译的函数 模板 实例化“std::_Wrap_alloc<std::allocator<_Ty>> std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>::_Getal(void) const”的引用
+          with
+          [
+              _Ty=size_t
+  ,            _Alloc=std::allocator<size_t>
+          ]
+          E:\vs2013\VC\include\vector(652): 参见对正在编译的类 模板 实例化“std::_Vector_alloc<false,std::_Vec_base_types<_Ty,_Alloc>>”的引用
+          with
+          [
+              _Ty=size_t
+  ,            _Alloc=std::allocator<size_t>
+          ]
+E:\vs2013\VC\include\xutility(2132): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          E:\vs2013\VC\include\xutility(2113) : 参见“std::_Copy_impl”的声明
+          C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\DBoW2\FORB.cpp(189): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<const unsigned char*,unsigned char*>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=unsigned char *
+  ,            _InIt=const unsigned char *
+          ]
+E:\vs2013\VC\include\vector(1105): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(1100): 编译类 模板 成员函数“void std::vector<int,std::allocator<_Ty>>::resize(unsigned __int64)”时
+          with
+          [
+              _Ty=int
+          ]
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(811): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::resize(unsigned __int64)”的引用
+          with
+          [
+              _Ty=int
+          ]
+E:\vs2013\VC\include\vector(1646): warning C4350: 行为更改:  调用了“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc(const std::_Wrap_alloc<std::allocator<_Ty>> &) throw()”而不是调用“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc<std::_Wrap_alloc<std::allocator<_Ty>>>(_Other &) throw()”
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(809) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\xmemory0(821) : 参见“std::_Wrap_alloc<std::allocator<_Ty>>::_Wrap_alloc”的声明
+          with
+          [
+              _Ty=int
+          ]
+          非常量引用只能绑定到左值
+          E:\vs2013\VC\include\vector(1591): 参见对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<_Ty>>::_Umove<int*>(_Iter,_Iter,int *)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=int *
+          ]
+          E:\vs2013\VC\include\vector(1591): 参见对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<_Ty>>::_Umove<int*>(_Iter,_Iter,int *)”的引用
+          with
+          [
+              _Ty=int
+  ,            _Iter=int *
+          ]
+          E:\vs2013\VC\include\vector(1587): 编译类 模板 成员函数“void std::vector<int,std::allocator<_Ty>>::_Reallocate(unsigned __int64)”时
+          with
+          [
+              _Ty=int
+          ]
+          E:\vs2013\VC\include\vector(1617): 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Reallocate(unsigned __int64)”的引用
+          with
+          [
+              _Ty=int
+          ]
+E:\vs2013\VC\include\stdlib.h(497): warning C4514: “abs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdlib.h(501): warning C4514: “abs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdlib.h(505): warning C4514: “div”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdlib.h(509): warning C4514: “div”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(304): warning C4514: “fpclassify”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(309): warning C4514: “fpclassify”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(314): warning C4514: “fpclassify”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(319): warning C4514: “signbit”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(324): warning C4514: “signbit”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(329): warning C4514: “signbit”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(334): warning C4514: “_fpcomp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(339): warning C4514: “_fpcomp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(344): warning C4514: “_fpcomp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(823): warning C4514: “_chgsignl”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(830): warning C4514: “_copysignl”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(884): warning C4514: “_hypotl”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1025): warning C4514: “abs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1027): warning C4514: “pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1031): warning C4514: “acos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1033): warning C4514: “acosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1035): warning C4514: “asin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1037): warning C4514: “asinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1039): warning C4514: “atan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1041): warning C4514: “atanh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1043): warning C4514: “atan2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1045): warning C4514: “cbrt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1047): warning C4514: “ceil”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1049): warning C4514: “copysign”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1051): warning C4514: “cos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1053): warning C4514: “cosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1055): warning C4514: “erf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1057): warning C4514: “erfc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1059): warning C4514: “exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1061): warning C4514: “exp2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1063): warning C4514: “expm1”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1065): warning C4514: “fabs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1067): warning C4514: “fdim”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1069): warning C4514: “floor”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1071): warning C4514: “fma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1073): warning C4514: “fmax”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1075): warning C4514: “fmin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1077): warning C4514: “fmod”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1079): warning C4514: “frexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1081): warning C4514: “hypot”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1083): warning C4514: “ilogb”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1085): warning C4514: “ldexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1087): warning C4514: “lgamma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1089): warning C4514: “llrint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1091): warning C4514: “llround”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1093): warning C4514: “log”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1095): warning C4514: “log10”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1097): warning C4514: “log1p”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1099): warning C4514: “log2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1101): warning C4514: “logb”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1103): warning C4514: “lrint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1105): warning C4514: “lround”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1107): warning C4514: “modf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1109): warning C4514: “nearbyint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1111): warning C4514: “nextafter”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1113): warning C4514: “nexttoward”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1115): warning C4514: “pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1117): warning C4514: “pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1119): warning C4514: “remainder”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1121): warning C4514: “remquo”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1123): warning C4514: “rint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1125): warning C4514: “round”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1127): warning C4514: “scalbln”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1129): warning C4514: “scalbn”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1131): warning C4514: “sin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1133): warning C4514: “sinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1135): warning C4514: “sqrt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1137): warning C4514: “tan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1139): warning C4514: “tanh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1141): warning C4514: “tgamma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1143): warning C4514: “trunc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1145): warning C4514: “abs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1147): warning C4514: “acos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1149): warning C4514: “acosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1151): warning C4514: “asin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1153): warning C4514: “asinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1155): warning C4514: “atan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1157): warning C4514: “atanh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1159): warning C4514: “atan2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1161): warning C4514: “cbrt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1163): warning C4514: “ceil”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1165): warning C4514: “copysign”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1167): warning C4514: “cos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1169): warning C4514: “cosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1171): warning C4514: “erf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1173): warning C4514: “erfc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1175): warning C4514: “exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1177): warning C4514: “exp2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1179): warning C4514: “expm1”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1181): warning C4514: “fabs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1183): warning C4514: “fdim”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1185): warning C4514: “floor”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1187): warning C4514: “fma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1189): warning C4514: “fmax”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1191): warning C4514: “fmin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1193): warning C4514: “fmod”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1195): warning C4514: “frexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1197): warning C4514: “hypot”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1199): warning C4514: “ilogb”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1201): warning C4514: “ldexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1203): warning C4514: “lgamma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1205): warning C4514: “llrint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1207): warning C4514: “llround”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1209): warning C4514: “log”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1211): warning C4514: “log10”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1213): warning C4514: “log1p”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1215): warning C4514: “log2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1217): warning C4514: “logb”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1219): warning C4514: “lrint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1221): warning C4514: “lround”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1223): warning C4514: “modf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1225): warning C4514: “nearbyint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1227): warning C4514: “nextafter”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1229): warning C4514: “nexttoward”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1231): warning C4514: “pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1233): warning C4514: “pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1235): warning C4514: “remainder”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1237): warning C4514: “remquo”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1239): warning C4514: “rint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1241): warning C4514: “round”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1243): warning C4514: “scalbln”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1245): warning C4514: “scalbn”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1247): warning C4514: “sin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1249): warning C4514: “sinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1251): warning C4514: “sqrt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1253): warning C4514: “tan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1255): warning C4514: “tanh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1257): warning C4514: “tgamma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\math.h(1259): warning C4514: “trunc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtr1common(374): warning C4514: “std::_Wrap_int::_Wrap_int”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtgmath.h(124): warning C4514: “_Fma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtgmath.h(129): warning C4514: “_Fma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtgmath.h(134): warning C4514: “_Fma”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtgmath.h(152): warning C4514: “_Remquo”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtgmath.h(157): warning C4514: “_Remquo”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xtgmath.h(162): warning C4514: “_Remquo”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(36): warning C4514: “swprintf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(49): warning C4514: “vswprintf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(60): warning C4514: “_swprintf_l”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(73): warning C4514: “_vswprintf_l”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(85): warning C4514: “swprintf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(97): warning C4514: “vswprintf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(105): warning C4514: “_swprintf_l”: 未引用的内联函数已移除
+E:\vs2013\VC\include\swprintf.inl(117): warning C4514: “_vswprintf_l”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(680): warning C4514: “getwchar”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(682): warning C4514: “putwchar”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1053): warning C4514: “wcsnlen_s”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1126): warning C4514: “wcschr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1128): warning C4514: “wcspbrk”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1130): warning C4514: “wcsrchr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1132): warning C4514: “wcsstr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wtime.inl(44): warning C4514: “_wctime”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wtime.inl(52): warning C4514: “_wctime_s”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1253): warning C4514: “fwide”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1255): warning C4514: “mbsinit”: 未引用的内联函数已移除
+E:\vs2013\VC\include\wchar.h(1307): warning C4514: “wmemchr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xstddef(431): warning C4514: “std::hash<float>::operator ()”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xstddef(445): warning C4514: “std::hash<double>::operator ()”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xstddef(459): warning C4514: “std::hash<long double>::operator ()”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(193): warning C4514: “std::numeric_limits<char>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(198): warning C4514: “std::numeric_limits<char>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(203): warning C4514: “std::numeric_limits<char>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(208): warning C4514: “std::numeric_limits<char>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(213): warning C4514: “std::numeric_limits<char>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(218): warning C4514: “std::numeric_limits<char>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(223): warning C4514: “std::numeric_limits<char>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(228): warning C4514: “std::numeric_limits<char>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(251): warning C4514: “std::numeric_limits<wchar_t>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(256): warning C4514: “std::numeric_limits<wchar_t>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(261): warning C4514: “std::numeric_limits<wchar_t>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(266): warning C4514: “std::numeric_limits<wchar_t>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(271): warning C4514: “std::numeric_limits<wchar_t>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(276): warning C4514: “std::numeric_limits<wchar_t>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(281): warning C4514: “std::numeric_limits<wchar_t>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(286): warning C4514: “std::numeric_limits<wchar_t>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(310): warning C4514: “std::numeric_limits<std::_Bool>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(315): warning C4514: “std::numeric_limits<std::_Bool>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(320): warning C4514: “std::numeric_limits<std::_Bool>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(325): warning C4514: “std::numeric_limits<std::_Bool>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(330): warning C4514: “std::numeric_limits<std::_Bool>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(335): warning C4514: “std::numeric_limits<std::_Bool>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(340): warning C4514: “std::numeric_limits<std::_Bool>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(345): warning C4514: “std::numeric_limits<std::_Bool>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(368): warning C4514: “std::numeric_limits<signed char>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(373): warning C4514: “std::numeric_limits<signed char>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(378): warning C4514: “std::numeric_limits<signed char>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(383): warning C4514: “std::numeric_limits<signed char>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(388): warning C4514: “std::numeric_limits<signed char>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(393): warning C4514: “std::numeric_limits<signed char>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(398): warning C4514: “std::numeric_limits<signed char>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(403): warning C4514: “std::numeric_limits<signed char>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(425): warning C4514: “std::numeric_limits<unsigned char>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(430): warning C4514: “std::numeric_limits<unsigned char>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(435): warning C4514: “std::numeric_limits<unsigned char>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(440): warning C4514: “std::numeric_limits<unsigned char>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(445): warning C4514: “std::numeric_limits<unsigned char>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(450): warning C4514: “std::numeric_limits<unsigned char>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(455): warning C4514: “std::numeric_limits<unsigned char>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(460): warning C4514: “std::numeric_limits<unsigned char>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(482): warning C4514: “std::numeric_limits<short>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(487): warning C4514: “std::numeric_limits<short>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(492): warning C4514: “std::numeric_limits<short>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(497): warning C4514: “std::numeric_limits<short>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(502): warning C4514: “std::numeric_limits<short>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(507): warning C4514: “std::numeric_limits<short>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(512): warning C4514: “std::numeric_limits<short>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(517): warning C4514: “std::numeric_limits<short>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(541): warning C4514: “std::numeric_limits<unsigned short>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(546): warning C4514: “std::numeric_limits<unsigned short>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(551): warning C4514: “std::numeric_limits<unsigned short>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(556): warning C4514: “std::numeric_limits<unsigned short>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(561): warning C4514: “std::numeric_limits<unsigned short>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(566): warning C4514: “std::numeric_limits<unsigned short>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(571): warning C4514: “std::numeric_limits<unsigned short>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(576): warning C4514: “std::numeric_limits<unsigned short>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(660): warning C4514: “std::numeric_limits<int>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(665): warning C4514: “std::numeric_limits<int>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(670): warning C4514: “std::numeric_limits<int>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(675): warning C4514: “std::numeric_limits<int>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(680): warning C4514: “std::numeric_limits<int>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(685): warning C4514: “std::numeric_limits<int>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(690): warning C4514: “std::numeric_limits<int>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(695): warning C4514: “std::numeric_limits<int>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(718): warning C4514: “std::numeric_limits<unsigned int>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(723): warning C4514: “std::numeric_limits<unsigned int>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(728): warning C4514: “std::numeric_limits<unsigned int>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(733): warning C4514: “std::numeric_limits<unsigned int>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(738): warning C4514: “std::numeric_limits<unsigned int>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(743): warning C4514: “std::numeric_limits<unsigned int>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(748): warning C4514: “std::numeric_limits<unsigned int>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(753): warning C4514: “std::numeric_limits<unsigned int>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(776): warning C4514: “std::numeric_limits<long>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(781): warning C4514: “std::numeric_limits<long>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(786): warning C4514: “std::numeric_limits<long>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(791): warning C4514: “std::numeric_limits<long>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(796): warning C4514: “std::numeric_limits<long>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(801): warning C4514: “std::numeric_limits<long>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(806): warning C4514: “std::numeric_limits<long>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(811): warning C4514: “std::numeric_limits<long>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(834): warning C4514: “std::numeric_limits<unsigned long>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(839): warning C4514: “std::numeric_limits<unsigned long>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(844): warning C4514: “std::numeric_limits<unsigned long>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(849): warning C4514: “std::numeric_limits<unsigned long>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(854): warning C4514: “std::numeric_limits<unsigned long>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(859): warning C4514: “std::numeric_limits<unsigned long>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(864): warning C4514: “std::numeric_limits<unsigned long>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(869): warning C4514: “std::numeric_limits<unsigned long>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(953): warning C4514: “std::numeric_limits<__int64>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(958): warning C4514: “std::numeric_limits<__int64>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(963): warning C4514: “std::numeric_limits<__int64>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(968): warning C4514: “std::numeric_limits<__int64>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(973): warning C4514: “std::numeric_limits<__int64>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(978): warning C4514: “std::numeric_limits<__int64>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(983): warning C4514: “std::numeric_limits<__int64>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(988): warning C4514: “std::numeric_limits<__int64>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1011): warning C4514: “std::numeric_limits<unsigned __int64>::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1016): warning C4514: “std::numeric_limits<unsigned __int64>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1021): warning C4514: “std::numeric_limits<unsigned __int64>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1026): warning C4514: “std::numeric_limits<unsigned __int64>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1031): warning C4514: “std::numeric_limits<unsigned __int64>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1036): warning C4514: “std::numeric_limits<unsigned __int64>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1041): warning C4514: “std::numeric_limits<unsigned __int64>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1046): warning C4514: “std::numeric_limits<unsigned __int64>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1065): warning C4514: “std::numeric_limits<float>::min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1075): warning C4514: “std::numeric_limits<float>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1080): warning C4514: “std::numeric_limits<float>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1085): warning C4514: “std::numeric_limits<float>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1090): warning C4514: “std::numeric_limits<float>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1095): warning C4514: “std::numeric_limits<float>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1100): warning C4514: “std::numeric_limits<float>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1105): warning C4514: “std::numeric_limits<float>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1128): warning C4514: “std::numeric_limits<double>::min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1138): warning C4514: “std::numeric_limits<double>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1143): warning C4514: “std::numeric_limits<double>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1148): warning C4514: “std::numeric_limits<double>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1153): warning C4514: “std::numeric_limits<double>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1158): warning C4514: “std::numeric_limits<double>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1163): warning C4514: “std::numeric_limits<double>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1168): warning C4514: “std::numeric_limits<double>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1191): warning C4514: “std::numeric_limits<long double>::min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1201): warning C4514: “std::numeric_limits<long double>::lowest”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1206): warning C4514: “std::numeric_limits<long double>::epsilon”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1211): warning C4514: “std::numeric_limits<long double>::round_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1216): warning C4514: “std::numeric_limits<long double>::denorm_min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1221): warning C4514: “std::numeric_limits<long double>::infinity”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1226): warning C4514: “std::numeric_limits<long double>::quiet_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\limits(1231): warning C4514: “std::numeric_limits<long double>::signaling_NaN”: 未引用的内联函数已移除
+E:\vs2013\VC\include\malloc.h(200): warning C4514: “_MarkAllocaS”: 未引用的内联函数已移除
+E:\vs2013\VC\include\malloc.h(210): warning C4514: “_MallocaIsSizeInRange”: 未引用的内联函数已移除
+E:\vs2013\VC\include\malloc.h(255): warning C4514: “_freea”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string.h(130): warning C4514: “strnlen_s”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string.h(221): warning C4514: “strchr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string.h(223): warning C4514: “strpbrk”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string.h(225): warning C4514: “strrchr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string.h(227): warning C4514: “strstr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string.h(232): warning C4514: “memchr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(195): warning C4514: “std::get_terminate”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(200): warning C4514: “std::get_unexpected”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(337): warning C4514: “std::bad_exception::bad_exception”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(361): warning C4514: “std::bad_alloc::bad_alloc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(394): warning C4514: “std::bad_array_new_length::bad_array_new_length”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(446): warning C4514: “std::exception_ptr::operator =”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(451): warning C4514: “std::exception_ptr::operator =”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::exception_ptr std::exception_ptr::_Current_exception(void)”: 函数未内联
+          E:\vs2013\VC\include\exception(470) : 参见“std::exception_ptr::_Current_exception”的声明
+E:\vs2013\VC\include\exception(476): warning C4514: “std::exception_ptr::_Copy_exception”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(492): warning C4514: “std::swap”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(512): warning C4514: “std::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(517): warning C4514: “std::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(522): warning C4514: “std::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(527): warning C4514: “std::current_exception”: 未引用的内联函数已移除
+E:\vs2013\VC\include\exception(532): warning C4514: “std::rethrow_exception”: 未引用的内联函数已移除
+E:\vs2013\VC\include\new(70): warning C4514: “operator new[]”: 未引用的内联函数已移除
+E:\vs2013\VC\include\new(75): warning C4514: “operator delete[]”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(296): warning C4514: “std::char_traits<wchar_t>::compare”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(316): warning C4514: “std::char_traits<wchar_t>::_Copy_s”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(325): warning C4514: “std::char_traits<wchar_t>::find”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(350): warning C4514: “std::char_traits<wchar_t>::eq”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(356): warning C4514: “std::char_traits<wchar_t>::lt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(380): warning C4514: “std::char_traits<wchar_t>::not_eof”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(404): warning C4514: “std::char_traits<unsigned short>::compare”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(412): warning C4514: “std::char_traits<unsigned short>::length”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(426): warning C4514: “std::char_traits<unsigned short>::_Copy_s”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(436): warning C4514: “std::char_traits<unsigned short>::find”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(444): warning C4514: “std::char_traits<unsigned short>::move”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(452): warning C4514: “std::char_traits<unsigned short>::assign”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(458): warning C4514: “std::char_traits<unsigned short>::assign”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(463): warning C4514: “std::char_traits<unsigned short>::eq”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(469): warning C4514: “std::char_traits<unsigned short>::lt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(491): warning C4514: “std::char_traits<unsigned short>::not_eof”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(533): warning C4514: “std::char_traits<char>::_Copy_s”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(542): warning C4514: “std::char_traits<char>::find”: 未引用的内联函数已移除
+E:\vs2013\VC\include\iosfwd(573): warning C4514: “std::char_traits<char>::lt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(42): warning C4514: “std::_Container_base0::_Orphan_all”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(46): warning C4514: “std::_Container_base0::_Swap_all”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(53): warning C4514: “std::_Iterator_base0::_Adopt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(57): warning C4514: “std::_Iterator_base0::_Getcont”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(83): warning C4514: “std::_Container_base12::_Container_base12”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(88): warning C4514: “std::_Container_base12::operator =”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(104): warning C4514: “std::_Container_base12::_Swap_all”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2603): warning C4514: “std::_Fill”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2608): warning C4514: “std::_Fill”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2613): warning C4514: “std::_Fill”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2637): warning C4514: “std::_Fill_n”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2643): warning C4514: “std::_Fill_n”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2650): warning C4514: “std::_Fill_n”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2742): warning C4514: “std::_Equal”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2748): warning C4514: “std::_Equal”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2754): warning C4514: “std::_Equal”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xutility(2900): warning C4514: “std::_Lexicographical_compare”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmemory0(59): warning C4514: “std::_Destroy”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmemory0(64): warning C4514: “std::_Destroy”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmemory0(70): warning C4514: “std::_Destroy”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmemory0(636): warning C4514: “std::allocator<void>::allocator”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmemory0(640): warning C4514: “std::allocator<void>::allocator”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xatomic0.h(89): warning C4514: “std::_Get_atomic_count”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xatomic0.h(106): warning C4514: “std::_Inc_atomic_counter”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xatomic0.h(117): warning C4514: “std::_Dec_atomic_counter”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xatomic0.h(128): warning C4514: “std::_Load_atomic_counter”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xatomic0.h(143): warning C4514: “std::_Compare_increment_atomic_counter”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmmintrin.h(431): warning C4514: “_mm_cvtpi8_ps”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmmintrin.h(448): warning C4514: “_mm_cvtpu8_ps”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmmintrin.h(462): warning C4514: “_mm_cvtps_pi8”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xmmintrin.h(477): warning C4514: “_mm_cvtpi32x2_ps”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(31): warning C4514: “std::logic_error::logic_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(59): warning C4514: “std::domain_error::domain_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(64): warning C4514: “std::domain_error::domain_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(87): warning C4514: “std::invalid_argument::invalid_argument”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(92): warning C4514: “std::invalid_argument::invalid_argument”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(115): warning C4514: “std::length_error::length_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(120): warning C4514: “std::length_error::length_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(143): warning C4514: “std::out_of_range::out_of_range”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(148): warning C4514: “std::out_of_range::out_of_range”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(199): warning C4514: “std::overflow_error::overflow_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(204): warning C4514: “std::overflow_error::overflow_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(227): warning C4514: “std::underflow_error::underflow_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(232): warning C4514: “std::underflow_error::underflow_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(255): warning C4514: “std::range_error::range_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\stdexcept(260): warning C4514: “std::range_error::range_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\typeinfo(46): warning C4514: “type_info::hash_code”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(27): warning C4514: “std::_Timevec::_Timevec”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(44): warning C4514: “std::_Timevec::_Getptr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(110): warning C4514: “std::_Locinfo::_Getcoll”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(130): warning C4514: “std::_Locinfo::_Gettnames”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(135): warning C4514: “std::_Locinfo::_Getdays”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(149): warning C4514: “std::_Locinfo::_Getmonths”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(175): warning C4514: “std::_Locinfo::_Getdateorder”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(180): warning C4514: “std::_Locinfo::_W_Gettnames”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(185): warning C4514: “std::_Locinfo::_W_Getdays”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(200): warning C4514: “std::_Locinfo::_W_Getmonths”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(251): warning C4514: “std::_LStrcoll”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(259): warning C4514: “std::_LStrcoll”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(280): warning C4514: “std::_LStrxfrm”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocinfo(289): warning C4514: “std::_LStrxfrm”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(112): warning C4514: “std::locale::facet::_Getcat”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(202): warning C4514: “std::locale::_Locimp::_Locimp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(209): warning C4514: “std::locale::_Locimp::_Locimp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(217): warning C4514: “std::locale::_Locimp::_Addfac”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(296): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(333): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(400): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(411): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(422): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(429): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::locale::name(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocale(455) : 参见“std::locale::name”的声明
+E:\vs2013\VC\include\xlocale(487): warning C4514: “std::locale::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(502): warning C4514: “std::locale::locale”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(172): warning C4514: “std::locale::facet::~facet”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(246): warning C4514: “std::locale::_Locimp::~_Locimp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(666): warning C4514: “std::_Maklocbyte”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(677): warning C4514: “std::_Maklocbyte”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(710): warning C4514: “std::_Maklocchr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(776): warning C4514: “std::_Maklocstr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(824): warning C4514: “std::codecvt_base::always_noconv”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(829): warning C4514: “std::codecvt_base::max_length”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(834): warning C4514: “std::codecvt_base::encoding”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(858): warning C4514: “std::codecvt_base::~codecvt_base”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1602): warning C4514: “std::codecvt<wchar_t,char,_Mbstatet>::in”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1610): warning C4514: “std::codecvt<wchar_t,char,_Mbstatet>::out”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1618): warning C4514: “std::codecvt<wchar_t,char,_Mbstatet>::unshift”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1625): warning C4514: “std::codecvt<wchar_t,char,_Mbstatet>::length”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1633): warning C4514: “std::codecvt<wchar_t,char,_Mbstatet>::codecvt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1647): warning C4514: “std::codecvt<wchar_t,char,_Mbstatet>::_Getcat”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1837): warning C4514: “std::codecvt<unsigned short,char,_Mbstatet>::in”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1845): warning C4514: “std::codecvt<unsigned short,char,_Mbstatet>::out”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1853): warning C4514: “std::codecvt<unsigned short,char,_Mbstatet>::unshift”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1860): warning C4514: “std::codecvt<unsigned short,char,_Mbstatet>::length”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1868): warning C4514: “std::codecvt<unsigned short,char,_Mbstatet>::codecvt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(1882): warning C4514: “std::codecvt<unsigned short,char,_Mbstatet>::_Getcat”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2107): warning C4514: “std::ctype_base::~ctype_base”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2368): warning C4514: “std::ctype<char>::is”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2378): warning C4514: “std::ctype<char>::scan_is”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2387): warning C4514: “std::ctype<char>::scan_not”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2396): warning C4514: “std::ctype<char>::tolower”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2401): warning C4514: “std::ctype<char>::tolower”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2406): warning C4514: “std::ctype<char>::toupper”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2411): warning C4514: “std::ctype<char>::toupper”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2427): warning C4514: “std::ctype<char>::narrow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2432): warning C4514: “std::ctype<char>::narrow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2440): warning C4514: “std::ctype<char>::ctype”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2588): warning C4514: “std::ctype<wchar_t>::is”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2594): warning C4514: “std::ctype<wchar_t>::scan_is”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2600): warning C4514: “std::ctype<wchar_t>::scan_not”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2606): warning C4514: “std::ctype<wchar_t>::tolower”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2611): warning C4514: “std::ctype<wchar_t>::tolower”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2616): warning C4514: “std::ctype<wchar_t>::toupper”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2621): warning C4514: “std::ctype<wchar_t>::toupper”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2637): warning C4514: “std::ctype<wchar_t>::narrow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2642): warning C4514: “std::ctype<wchar_t>::narrow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2650): warning C4514: “std::ctype<wchar_t>::ctype”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2815): warning C4514: “std::ctype<unsigned short>::is”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2821): warning C4514: “std::ctype<unsigned short>::scan_is”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2827): warning C4514: “std::ctype<unsigned short>::scan_not”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2833): warning C4514: “std::ctype<unsigned short>::tolower”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2838): warning C4514: “std::ctype<unsigned short>::tolower”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2843): warning C4514: “std::ctype<unsigned short>::toupper”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2848): warning C4514: “std::ctype<unsigned short>::toupper”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2853): warning C4514: “std::ctype<unsigned short>::widen”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2858): warning C4514: “std::ctype<unsigned short>::widen”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2864): warning C4514: “std::ctype<unsigned short>::narrow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2869): warning C4514: “std::ctype<unsigned short>::narrow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(2877): warning C4514: “std::ctype<unsigned short>::ctype”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(3055): warning C4514: “std::ctype_byname<char>::ctype_byname”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(3060): warning C4514: “std::ctype_byname<char>::ctype_byname”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(180): warning C4514: “std::error_category::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(200): warning C4514: “std::error_code::error_code”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(220): warning C4514: “std::error_code::assign”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(234): warning C4514: “std::error_code::clear”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::error_code::message(void) const”: 函数未内联
+          E:\vs2013\VC\include\system_error(252) : 参见“std::error_code::message”的声明
+E:\vs2013\VC\include\system_error(257): warning C4514: “std::error_code::operator bool”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(268): warning C4514: “std::error_code::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(273): warning C4514: “std::error_code::operator <”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(291): warning C4514: “std::error_condition::error_condition”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(311): warning C4514: “std::error_condition::assign”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(325): warning C4514: “std::error_condition::clear”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(341): warning C4514: “std::error_condition::message”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(346): warning C4514: “std::error_condition::operator bool”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(357): warning C4514: “std::error_condition::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(362): warning C4514: “std::error_condition::operator <”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(250): warning C4514: “std::error_code::default_error_condition”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(419): warning C4514: “std::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(426): warning C4514: “std::operator !=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(139): warning C4514: “std::make_error_code”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(141): warning C4514: “std::make_error_condition”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(142): warning C4514: “std::make_error_condition”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(462): warning C4514: “std::hash<std::error_code>::operator ()”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::_System_error::_Makestr(std::error_code,std::string)”: 函数未内联
+          E:\vs2013\VC\include\system_error(473) : 参见“std::_System_error::_Makestr”的声明
+E:\vs2013\VC\include\system_error(497): warning C4514: “std::system_error::system_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(512): warning C4514: “std::system_error::system_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(517): warning C4514: “std::system_error::system_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(523): warning C4514: “std::system_error::system_error”: 未引用的内联函数已移除
+E:\vs2013\VC\include\system_error(529): warning C4514: “std::system_error::code”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::_Generic_error_category::message(int) const”: 函数未内联
+          E:\vs2013\VC\include\system_error(562) : 参见“std::_Generic_error_category::message”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::_Iostream_error_category::message(int) const”: 函数未内联
+          E:\vs2013\VC\include\system_error(583) : 参见“std::_Iostream_error_category::message”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::_System_error_category::message(int) const”: 函数未内联
+          E:\vs2013\VC\include\system_error(606) : 参见“std::_System_error_category::message”的声明
+E:\vs2013\VC\include\xiosbase(224): warning C4514: “std::ios_base::failure::failure”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(252): warning C4514: “std::ios_base::Init::Init”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(257): warning C4514: “std::ios_base::Init::~Init”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(271): warning C4514: “std::ios_base::operator bool”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(276): warning C4514: “std::ios_base::operator !”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(301): warning C4514: “std::ios_base::clear”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(311): warning C4514: “std::ios_base::setstate”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(323): warning C4514: “std::ios_base::setstate”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(344): warning C4514: “std::ios_base::bad”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(349): warning C4514: “std::ios_base::exceptions”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(360): warning C4514: “std::ios_base::exceptions”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(370): warning C4514: “std::ios_base::flags”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(403): warning C4514: “std::ios_base::precision”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::locale std::ios_base::getloc(void) const”: 函数未内联
+          E:\vs2013\VC\include\xiosbase(422) : 参见“std::ios_base::getloc”的声明
+E:\vs2013\VC\include\xiosbase(427): warning C4514: “std::ios_base::imbue”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(435): warning C4514: “std::ios_base::xalloc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(458): warning C4514: “std::ios_base::copyfmt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(486): warning C4514: “std::ios_base::sync_with_stdio”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(495): warning C4514: “std::ios_base::swap”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xiosbase(634): warning C4514: “std::ios_base::~ios_base”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(62): warning C4514: “std::_Maklocwcs”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(209): warning C4514: “std::boolalpha”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(215): warning C4514: “std::dec”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(221): warning C4514: “std::defaultfloat”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(227): warning C4514: “std::fixed”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(233): warning C4514: “std::hex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(239): warning C4514: “std::hexfloat”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(249): warning C4514: “std::internal”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(255): warning C4514: “std::left”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(261): warning C4514: “std::noboolalpha”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(267): warning C4514: “std::noshowbase”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(273): warning C4514: “std::noshowpoint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(279): warning C4514: “std::noshowpos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(285): warning C4514: “std::noskipws”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(291): warning C4514: “std::nounitbuf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(297): warning C4514: “std::nouppercase”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(303): warning C4514: “std::oct”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(309): warning C4514: “std::right”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(315): warning C4514: “std::scientific”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(321): warning C4514: “std::showbase”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(327): warning C4514: “std::showpoint”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(333): warning C4514: “std::showpos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(339): warning C4514: “std::skipws”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(345): warning C4514: “std::unitbuf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(351): warning C4514: “std::uppercase”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(1146): warning C4514: “std::ws”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(1181): warning C4514: “std::ws”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(1217): warning C4514: “std::ws”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(226): warning C4514: “std::stoi”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(243): warning C4514: “std::stol”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(260): warning C4514: “std::stoul”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(277): warning C4514: “std::stoll”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(294): warning C4514: “std::stoull”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(311): warning C4514: “std::stof”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(327): warning C4514: “std::stod”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(343): warning C4514: “std::stold”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(360): warning C4514: “std::stoi”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(377): warning C4514: “std::stol”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(394): warning C4514: “std::stoul”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(411): warning C4514: “std::stoll”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(428): warning C4514: “std::stoull”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(445): warning C4514: “std::stof”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(461): warning C4514: “std::stod”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(477): warning C4514: “std::stold”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(500): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(508): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(516): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(524): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(532): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(540): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::to_string(long double)”: 函数未内联
+          E:\vs2013\VC\include\string(548) : 参见“std::to_string”的声明
+E:\vs2013\VC\include\string(561): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(566): warning C4514: “std::to_string”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(578): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(586): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(594): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(602): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(610): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(618): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::wstring std::to_wstring(long double)”: 函数未内联
+          E:\vs2013\VC\include\string(626) : 参见“std::to_wstring”的声明
+E:\vs2013\VC\include\string(639): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\string(644): warning C4514: “std::to_wstring”: 未引用的内联函数已移除
+E:\vs2013\VC\include\algorithm(2091): warning C4514: “std::_Rand_urng_from_func::min”: 未引用的内联函数已移除
+E:\vs2013\VC\include\algorithm(2096): warning C4514: “std::_Rand_urng_from_func::max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\algorithm(2101): warning C4514: “std::_Rand_urng_from_func::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(82): warning C4514: “std::abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(83): warning C4514: “std::abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(84): warning C4514: “std::abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(85): warning C4514: “std::abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(500): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(501): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(507): warning C4514: “cv::String::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(508): warning C4514: “cv::String::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(511): warning C4514: “cv::String::operator +=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(512): warning C4514: “cv::String::operator +=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(514): warning C4514: “cv::String::size”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(515): warning C4514: “cv::String::length”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(517): warning C4514: “cv::String::operator []”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(518): warning C4514: “cv::String::operator []”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(520): warning C4514: “cv::String::begin”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(521): warning C4514: “cv::String::end”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(525): warning C4514: “cv::String::empty”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(526): warning C4514: “cv::String::clear”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(532): warning C4514: “cv::String::substr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(535): warning C4514: “cv::String::find”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(536): warning C4514: “cv::String::find”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(537): warning C4514: “cv::String::find”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(540): warning C4514: “cv::String::rfind”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(541): warning C4514: “cv::String::rfind”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(542): warning C4514: “cv::String::rfind”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(545): warning C4514: “cv::String::find_first_of”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(546): warning C4514: “cv::String::find_first_of”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(547): warning C4514: “cv::String::find_first_of”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(550): warning C4514: “cv::String::find_last_of”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(551): warning C4514: “cv::String::find_last_of”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(552): warning C4514: “cv::String::find_last_of”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(560): warning C4514: “cv::String::toLowerCase”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::String cv::operator +(const cv::String &,const cv::String &)”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(554) : 参见“cv::operator +”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::String cv::operator +(const cv::String &,const char *)”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(555) : 参见“cv::operator +”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(556): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::String cv::operator +(const cv::String &,char)”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(557) : 参见“cv::operator +”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(558): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1028): warning C4514: “cv::operator ==”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1029): warning C4514: “cv::operator ==”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1030): warning C4514: “cv::operator ==”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1031): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1032): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1033): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1034): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1035): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1036): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1037): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1038): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1039): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1040): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1041): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1042): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1043): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1044): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1045): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(1054): warning C4514: “std::swap”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/ptr.inl.hpp(62): warning C4514: “cv::detail::PtrOwner::PtrOwner”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/ptr.inl.hpp(65): warning C4514: “cv::detail::PtrOwner::incRef”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(353): warning C4514: “cv::errorNoReturn”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(445): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(446): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(447): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(448): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(516): warning C4514: “cv::normL2Sqr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(547): warning C4514: “cv::normL1”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/base.hpp(557): warning C4514: “cv::normL1”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(130): warning C4514: “cvFloor”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(153): warning C4514: “cvCeil”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(175): warning C4514: “cvIsNaN”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(189): warning C4514: “cvIsInf”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(231): warning C4514: “cvRound”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(237): warning C4514: “cvFloor”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(254): warning C4514: “cvFloor”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(260): warning C4514: “cvCeil”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(277): warning C4514: “cvCeil”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(283): warning C4514: “cvIsNaN”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/fast_math.hpp(291): warning C4514: “cvIsInf”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(102): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(103): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(105): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(90): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(94): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(96): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(98): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(100): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(112): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(113): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(115): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(122): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(123): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(125): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(126): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(131): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(133): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(134): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(139): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(140): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(143): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/saturate.hpp(144): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/matx.hpp(338): warning C4514: “cv::Vec<float,2>::conj”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/matx.hpp(338): warning C4514: “cv::Vec<double,2>::conj”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/matx.hpp(338): warning C4514: “cv::Vec<float,4>::conj”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/matx.hpp(338): warning C4514: “cv::Vec<double,4>::conj”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/matx.hpp(345): warning C4514: “cv::Vec<float,3>::cross”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/matx.hpp(345): warning C4514: “cv::Vec<double,3>::cross”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(461): warning C4514: “cv::RotatedRect::RotatedRect”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(534): warning C4514: “cv::Range::Range”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(536): warning C4514: “cv::Range::size”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(537): warning C4514: “cv::Range::empty”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(1885): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(1891): warning C4514: “cv::operator !”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(1905): warning C4514: “cv::operator &=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(1918): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(1924): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(2168): warning C4514: “cv::operator *”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(636): warning C4514: “cv::KeyPoint::KeyPoint”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(645): warning C4514: “cv::KeyPoint::KeyPoint”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(655): warning C4514: “cv::KeyPoint::KeyPoint”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(731): warning C4514: “cv::DMatch::DMatch”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(732): warning C4514: “cv::DMatch::DMatch”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(733): warning C4514: “cv::DMatch::DMatch”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(742): warning C4514: “cv::DMatch::operator <”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types.hpp(785): warning C4514: “cv::TermCriteria::TermCriteria”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/bufferpool.hpp(19): warning C4514: “cv::BufferPoolController::~BufferPoolController”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(410): warning C4514: “cv::MatAllocator::MatAllocator”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(202): warning C4514: “cv::_InputArray::getObj”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(201): warning C4514: “cv::_InputArray::getFlags”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(203): warning C4514: “cv::_InputArray::getSz”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(172): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(175): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(189): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(190): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(178): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(183): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(174): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(184): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(185): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(186): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(187): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::Mat cv::_InputArray::getMat(int) const”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(192) : 参见“cv::_InputArray::getMat”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(223): warning C4514: “cv::_InputArray::isMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(224): warning C4514: “cv::_InputArray::isUMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(225): warning C4514: “cv::_InputArray::isMatVector”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(226): warning C4514: “cv::_InputArray::isUMatVector”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(227): warning C4514: “cv::_InputArray::isMatx”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(228): warning C4514: “cv::_InputArray::isVector”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(229): warning C4514: “cv::_InputArray::isGpuMatVector”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(285): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(287): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(301): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(294): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(288): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(289): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(290): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(291): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(304): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(316): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(317): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(305): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(307): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(308): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(344): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(345): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(346): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(347): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(359): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(360): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(353): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(348): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(349): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(350): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(362): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(363): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(375): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(376): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(364): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(365): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(366): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(367): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(757): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(776): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(765): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(787): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(795): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(806): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(831): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(847): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::Mat cv::Mat::row(int) const”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(995) : 参见“cv::Mat::row”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1004): warning C4514: “cv::Mat::col”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1013): warning C4514: “cv::Mat::rowRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1018): warning C4514: “cv::Mat::rowRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1027): warning C4514: “cv::Mat::colRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1032): warning C4514: “cv::Mat::colRange”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::Mat cv::Mat::clone(void) const”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1060) : 参见“cv::Mat::clone”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1108): warning C4514: “cv::Mat::assignTo”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1323): warning C4514: “cv::Mat::create”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1341): warning C4514: “cv::Mat::addref”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1470): warning C4514: “cv::Mat::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1475): warning C4514: “cv::Mat::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1480): warning C4514: “cv::Mat::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1570): warning C4514: “cv::Mat::isSubmatrix”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1606): warning C4514: “cv::Mat::depth”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1612): warning C4514: “cv::Mat::channels”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1619): warning C4514: “cv::Mat::step1”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1626): warning C4514: “cv::Mat::empty”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1644): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1649): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1651): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1654): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1656): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1659): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(1661): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(1133): warning C4514: “cv::Mat::push_back”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(522): warning C4514: “cv::MatSize::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(524): warning C4514: “cv::MatSize::operator []”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(525): warning C4514: “cv::MatSize::operator const int *”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(527): warning C4514: “cv::MatSize::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(535): warning C4514: “cv::MatStep::MatStep”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(538): warning C4514: “cv::MatStep::operator size_t”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(539): warning C4514: “cv::MatStep::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2472): warning C4514: “cv::SparseMat::SparseMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2492): warning C4514: “cv::SparseMat::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2495): warning C4514: “cv::SparseMat::clone”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2516): warning C4514: “cv::SparseMat::assignTo”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2535): warning C4514: “cv::SparseMat::elemSize”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2537): warning C4514: “cv::SparseMat::elemSize1”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2540): warning C4514: “cv::SparseMat::type”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2542): warning C4514: “cv::SparseMat::depth”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2544): warning C4514: “cv::SparseMat::channels”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2547): warning C4514: “cv::SparseMat::size”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2549): warning C4514: “cv::SparseMat::size”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2551): warning C4514: “cv::SparseMat::dims”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2553): warning C4514: “cv::SparseMat::nzcount”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2556): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2558): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2560): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2562): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2680): warning C4514: “cv::SparseMat::node”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2681): warning C4514: “cv::SparseMat::node”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2654): warning C4514: “cv::SparseMat::begin”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2658): warning C4514: “cv::SparseMat::begin”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2666): warning C4514: “cv::SparseMat::end”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2668): warning C4514: “cv::SparseMat::end”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2790): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2792): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2794): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2796): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2803): warning C4514: “cv::MatConstIterator::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2812): warning C4514: “cv::MatConstIterator::operator -=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2814): warning C4514: “cv::MatConstIterator::operator --”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2816): warning C4514: “cv::MatConstIterator::operator --”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2818): warning C4514: “cv::MatConstIterator::operator ++”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2820): warning C4514: “cv::MatConstIterator::operator ++”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2437): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2443): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2449): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2455): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2461): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2467): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2485): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2492): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2807): warning C4514: “cv::MatConstIterator::operator []”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2984): warning C4514: “cv::SparseMatConstIterator::operator ++”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(2846): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3007): warning C4514: “cv::SparseMatIterator::SparseMatIterator”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3016): warning C4514: “cv::SparseMatIterator::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3020): warning C4514: “cv::SparseMatIterator::node”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3025): warning C4514: “cv::SparseMatIterator::operator ++”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3284): warning C4514: “cv::MatExpr::MatExpr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3287): warning C4514: “cv::MatExpr::MatExpr”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::MatExpr::operator cv::Mat(void) const”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(3290) : 参见“cv::MatExpr::operator cv::Mat”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3174): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3181): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3202): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3209): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3230): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3237): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3258): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.inl.hpp(3265): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2154): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2157): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2155): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2158): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2161): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2162): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2165): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2192): warning C4514: “cv::UMat::row”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2194): warning C4514: “cv::UMat::col”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2196): warning C4514: “cv::UMat::rowRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2197): warning C4514: “cv::UMat::rowRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2199): warning C4514: “cv::UMat::colRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2200): warning C4514: “cv::UMat::colRange”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2210): warning C4514: “cv::UMat::clone”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2219): warning C4514: “cv::UMat::assignTo”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2253): warning C4514: “cv::UMat::create”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2273): warning C4514: “cv::UMat::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2274): warning C4514: “cv::UMat::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2275): warning C4514: “cv::UMat::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2280): warning C4514: “cv::UMat::isContinuous”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2283): warning C4514: “cv::UMat::isSubmatrix”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2287): warning C4514: “cv::UMat::elemSize”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2293): warning C4514: “cv::UMat::depth”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2295): warning C4514: “cv::UMat::channels”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2297): warning C4514: “cv::UMat::step1”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2299): warning C4514: “cv::UMat::empty”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2308): warning C4514: “cv::UMat::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(484): warning C4514: “cv::UMatData::hostCopyObsolete”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(485): warning C4514: “cv::UMatData::deviceCopyObsolete”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(486): warning C4514: “cv::UMatData::deviceMemMapped”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(487): warning C4514: “cv::UMatData::copyOnMap”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(488): warning C4514: “cv::UMatData::tempUMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(489): warning C4514: “cv::UMatData::tempCopiedUMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(492): warning C4514: “cv::UMatData::markDeviceMemMapped”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(490): warning C4514: “cv::UMatData::markHostCopyObsolete”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(491): warning C4514: “cv::UMatData::markDeviceCopyObsolete”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(513): warning C4514: “cv::UMatDataAutoLock::UMatDataAutoLock”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(514): warning C4514: “cv::UMatDataAutoLock::~UMatDataAutoLock”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(406): warning C4514: “cv::FileStorage::operator *”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(409): warning C4514: “cv::FileStorage::operator *”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(729): warning C4514: “cv::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(838): warning C4514: “cv::write”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(844): warning C4514: “cv::write”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(850): warning C4514: “cv::write”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(974): warning C4514: “cv::write”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(993): warning C4514: “cv::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1001): warning C4514: “cv::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1009): warning C4514: “cv::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1017): warning C4514: “cv::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1025): warning C4514: “cv::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1074): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1082): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1152): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(1158): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(385): warning C4514: “cv::FileStorage::getFirstTopLevelNode”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(515): warning C4514: “cv::FileNode::empty”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(517): warning C4514: “cv::FileNode::isNone”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(519): warning C4514: “cv::FileNode::isSeq”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(521): warning C4514: “cv::FileNode::isMap”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(523): warning C4514: “cv::FileNode::isInt”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(525): warning C4514: “cv::FileNode::isReal”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(527): warning C4514: “cv::FileNode::isString”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(547): warning C4514: “cv::FileNode::operator *”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(549): warning C4514: “cv::FileNode::operator *”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(535): warning C4514: “cv::FileNode::operator int”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(537): warning C4514: “cv::FileNode::operator float”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(539): warning C4514: “cv::FileNode::operator double”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(541): warning C4514: “cv::FileNode::operator cv::String”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(564): warning C4514: “cv::FileNode::readRaw”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(605): warning C4514: “cv::FileNodeIterator::operator ->”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(503): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2473): warning C4514: “cv::LDA::eigenvectors”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2477): warning C4514: “cv::LDA::eigenvalues”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2930): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2984): warning C4514: “cv::Algorithm::clear”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2988): warning C4514: “cv::Algorithm::write”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2992): warning C4514: “cv::Algorithm::read”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2996): warning C4514: “cv::Algorithm::empty”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(239): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(240): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(245): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(246): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(251): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(254): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(257): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(260): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(263): warning C4514: “cv::operator &=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(264): warning C4514: “cv::operator &=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(269): warning C4514: “cv::operator |=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(270): warning C4514: “cv::operator |=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(275): warning C4514: “cv::operator ^=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(276): warning C4514: “cv::operator ^=”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2524): warning C4514: “cv::SVD::SVD”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2590): warning C4514: “cv::SVD::solveZ”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2658): warning C4514: “cv::RNG::RNG”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2662): warning C4514: “cv::RNG::RNG”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2673): warning C4514: “cv::RNG::operator uchar”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2675): warning C4514: “cv::RNG::operator schar”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2677): warning C4514: “cv::RNG::operator ushort”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2679): warning C4514: “cv::RNG::operator short”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2683): warning C4514: “cv::RNG::operator int”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2681): warning C4514: “cv::RNG::operator unsigned int”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2700): warning C4514: “cv::RNG::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2696): warning C4514: “cv::RNG::operator ()”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2740): warning C4514: “cv::RNG::uniform”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core.hpp(2742): warning C4514: “cv::RNG::uniform”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(371): warning C4514: “cv::format”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(388): warning C4514: “cv::print”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/operations.hpp(394): warning C4514: “cv::print”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(200): warning C4514: “std::_Ctraits<long double>::_Flt_max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(205): warning C4514: “std::_Ctraits<long double>::_Cosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(210): warning C4514: “std::_Ctraits<long double>::_Exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(215): warning C4514: “std::_Ctraits<long double>::_Infv”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(220): warning C4514: “std::_Ctraits<long double>::_Isinf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(235): warning C4514: “std::_Ctraits<long double>::_Sinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(240): warning C4514: “std::_Ctraits<long double>::asinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(257): warning C4514: “std::_Ctraits<long double>::atan2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(262): warning C4514: “std::_Ctraits<long double>::cos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(267): warning C4514: “std::_Ctraits<long double>::exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(272): warning C4514: “std::_Ctraits<long double>::ldexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(295): warning C4514: “std::_Ctraits<long double>::pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(300): warning C4514: “std::_Ctraits<long double>::sin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(310): warning C4514: “std::_Ctraits<long double>::tan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(328): warning C4514: “std::_Ctraits<double>::_Flt_max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(333): warning C4514: “std::_Ctraits<double>::_Cosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(338): warning C4514: “std::_Ctraits<double>::_Exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(363): warning C4514: “std::_Ctraits<double>::_Sinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(368): warning C4514: “std::_Ctraits<double>::asinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(389): warning C4514: “std::_Ctraits<double>::atan2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(394): warning C4514: “std::_Ctraits<double>::cos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(399): warning C4514: “std::_Ctraits<double>::exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(404): warning C4514: “std::_Ctraits<double>::ldexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(431): warning C4514: “std::_Ctraits<double>::pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(436): warning C4514: “std::_Ctraits<double>::sin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(446): warning C4514: “std::_Ctraits<double>::tan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(464): warning C4514: “std::_Ctraits<float>::_Flt_max”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(469): warning C4514: “std::_Ctraits<float>::_Cosh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(474): warning C4514: “std::_Ctraits<float>::_Exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(479): warning C4514: “std::_Ctraits<float>::_Infv”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(484): warning C4514: “std::_Ctraits<float>::_Isinf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(499): warning C4514: “std::_Ctraits<float>::_Sinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(504): warning C4514: “std::_Ctraits<float>::asinh”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(521): warning C4514: “std::_Ctraits<float>::atan2”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(526): warning C4514: “std::_Ctraits<float>::cos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(531): warning C4514: “std::_Ctraits<float>::exp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(536): warning C4514: “std::_Ctraits<float>::ldexp”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(559): warning C4514: “std::_Ctraits<float>::pow”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(564): warning C4514: “std::_Ctraits<float>::sin”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(574): warning C4514: “std::_Ctraits<float>::tan”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(725): warning C4514: “std::complex<float>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(731): warning C4514: “std::complex<float>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(737): warning C4514: “std::complex<float>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(743): warning C4514: “std::complex<float>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(749): warning C4514: “std::complex<float>::operator =”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(756): warning C4514: “std::complex<float>::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(762): warning C4514: “std::complex<float>::operator -=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(768): warning C4514: “std::complex<float>::operator *=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(775): warning C4514: “std::complex<float>::operator /=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(782): warning C4514: “std::complex<float>::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(788): warning C4514: “std::complex<float>::operator -=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(794): warning C4514: “std::complex<float>::operator *=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(800): warning C4514: “std::complex<float>::operator /=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(857): warning C4514: “std::complex<double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(863): warning C4514: “std::complex<double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(869): warning C4514: “std::complex<double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(875): warning C4514: “std::complex<double>::operator =”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(882): warning C4514: “std::complex<double>::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(888): warning C4514: “std::complex<double>::operator -=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(894): warning C4514: “std::complex<double>::operator *=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(901): warning C4514: “std::complex<double>::operator /=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(908): warning C4514: “std::complex<double>::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(914): warning C4514: “std::complex<double>::operator -=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(920): warning C4514: “std::complex<double>::operator *=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(926): warning C4514: “std::complex<double>::operator /=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(983): warning C4514: “std::complex<long double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(989): warning C4514: “std::complex<long double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(995): warning C4514: “std::complex<long double>::operator =”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1002): warning C4514: “std::complex<long double>::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1008): warning C4514: “std::complex<long double>::operator -=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1014): warning C4514: “std::complex<long double>::operator *=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1021): warning C4514: “std::complex<long double>::operator /=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1028): warning C4514: “std::complex<long double>::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1034): warning C4514: “std::complex<long double>::operator -=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1040): warning C4514: “std::complex<long double>::operator *=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(1046): warning C4514: “std::complex<long double>::operator /=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(720): warning C4514: “std::complex<float>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(722): warning C4514: “std::complex<float>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(852): warning C4514: “std::complex<double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(854): warning C4514: “std::complex<double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(978): warning C4514: “std::complex<long double>::complex”: 未引用的内联函数已移除
+E:\vs2013\VC\include\complex(980): warning C4514: “std::complex<long double>::complex”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(564): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(565): warning C4514: “cv::String::operator =”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(566): warning C4514: “cv::String::operator +=”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::String::operator std::string(void) const”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(567) : 参见“cv::String::operator std::string”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “cv::String cv::operator +(const cv::String &,const std::string &)”: 函数未内联
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(569) : 参见“cv::operator +”的声明
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.hpp(570): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/persistence.hpp(543): warning C4514: “cv::FileNode::operator std::string”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.inl.hpp(152): warning C4514: “cv::operator >>”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.inl.hpp(160): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.inl.hpp(166): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/cvstd.inl.hpp(181): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(314): warning C4514: “cv::alignSize”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(341): warning C4514: “cv::getElemSize”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(476): warning C4514: “cv::AutoLock::AutoLock”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(477): warning C4514: “cv::AutoLock::~AutoLock”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(871): warning C4514: “cv::CommandLineParser::get”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(875): warning C4514: “cv::CommandLineParser::get”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(215): warning C4514: “cvRNG”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(242): warning C4514: “cvRandReal”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(334): warning C4514: “_IplImage::_IplImage”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(462): warning C4514: “CvMat::CvMat”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(557): warning C4514: “cvmGet”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(584): warning C4514: “cvmSet”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(601): warning C4514: “cvIplDepth”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(651): warning C4514: “CvMatND::CvMatND”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(809): warning C4514: “cvRectToROI”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(822): warning C4514: “cvROIToRect”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(845): warning C4514: “CvTermCriteria::CvTermCriteria”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(846): warning C4514: “CvTermCriteria::operator cv::TermCriteria”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(852): warning C4514: “cvTermCriteria”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(882): warning C4514: “cvPoint”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(920): warning C4514: “cvPointTo32f”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(926): warning C4514: “cvPointFrom32f”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(953): warning C4514: “cvPoint3D32f”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(973): warning C4514: “cvPoint2D64f”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(993): warning C4514: “cvPoint3D64f”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1023): warning C4514: “cvSize”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1049): warning C4514: “cvSize2D32f”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1069): warning C4514: “CvBox2D::CvBox2D”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1070): warning C4514: “CvBox2D::CvBox2D”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1071): warning C4514: “CvBox2D::operator cv::RotatedRect”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1104): warning C4514: “CvSlice::CvSlice”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1105): warning C4514: “CvSlice::operator cv::Range”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1130): warning C4514: “CvScalar::CvScalar”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1156): warning C4514: “cvRealScalar”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1164): warning C4514: “cvScalarAll”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/types_c.h(1688): warning C4514: “cvAttrList”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(298): warning C4514: “cvDecRefData”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(324): warning C4514: “cvIncRefData”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(380): warning C4514: “cvGetRow”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(406): warning C4514: “cvGetCol”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(475): warning C4514: “cvReleaseMatND”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(542): warning C4514: “cvGetNextSparseNode”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(1062): warning C4514: “cvSubS”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(1694): warning C4514: “cvCloneSeq”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(1737): warning C4514: “cvSetNew”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(1752): warning C4514: “cvSetRemoveByPtr”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(1767): warning C4514: “cvGetSetElem”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(2331): warning C4514: “cvReadIntByName”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(2362): warning C4514: “cvReadRealByName”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(2391): warning C4514: “cvReadStringByName”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(2423): warning C4514: “cvReadByName”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/core_c.h(2770): warning C4514: “cv::cvarrToMatND”: 未引用的内联函数已移除
+C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/mat.hpp(2114): warning C4514: “cv::Mat_<double>::~Mat_”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(934): warning C4514: “std::codecvt<char,char,_Mbstatet>::do_always_noconv”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(939): warning C4514: “std::codecvt<char,char,_Mbstatet>::do_in”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(954): warning C4514: “std::codecvt<char,char,_Mbstatet>::do_out”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(969): warning C4514: “std::codecvt<char,char,_Mbstatet>::do_unshift”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocale(976): warning C4514: “std::codecvt<char,char,_Mbstatet>::do_length”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(339): warning C4514: “std::basic_streambuf<char,std::char_traits<char>>::pbackfail”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(418): warning C4514: “std::basic_streambuf<char,std::char_traits<char>>::seekoff”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(425): warning C4514: “std::basic_streambuf<char,std::char_traits<char>>::seekpos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(339): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::pbackfail”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(344): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::showmanyc”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(360): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::xsgetn”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(389): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::xsputn”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(418): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::seekoff”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(425): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::seekpos”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(431): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::setbuf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(441): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::imbue”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::numpunct<char>::do_grouping(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(200) : 参见“std::numpunct<char>::do_grouping”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::do_falsename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(205) : 参见“std::numpunct<char>::do_falsename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::do_truename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(210) : 参见“std::numpunct<char>::do_truename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::numpunct<wchar_t>::do_grouping(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(200) : 参见“std::numpunct<wchar_t>::do_grouping”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::do_falsename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(205) : 参见“std::numpunct<wchar_t>::do_falsename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::do_truename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(210) : 参见“std::numpunct<wchar_t>::do_truename”的声明
+E:\vs2013\VC\include\xlocnum(385): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(422): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(445): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(467): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(487): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(508): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(528): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(549): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(573): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(597): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(621): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1177): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1217): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1228): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1238): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1249): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1291): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1332): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>::str(void) const”: 函数未内联
+          E:\vs2013\VC\include\sstream(643) : 参见“std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>::str”的声明
+E:\vs2013\VC\include\xlocale(982): warning C4514: “std::codecvt<char,char,_Mbstatet>::~codecvt”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(462): warning C4514: “std::basic_streambuf<char,std::char_traits<char>>::~basic_streambuf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\streambuf(462): warning C4514: “std::basic_streambuf<wchar_t,std::char_traits<wchar_t>>::~basic_streambuf”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1070): warning C4514: “std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::~num_get”: 未引用的内联函数已移除
+E:\vs2013\VC\include\xlocnum(1562): warning C4514: “std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::~num_put”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(191): warning C4514: “std::basic_ios<char,std::char_traits<char>>::~basic_ios”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ios(191): warning C4514: “std::basic_ios<wchar_t,std::char_traits<wchar_t>>::~basic_ios”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ostream(624): warning C4514: “std::basic_ostream<char,std::char_traits<char>>::~basic_ostream”: 未引用的内联函数已移除
+E:\vs2013\VC\include\ostream(624): warning C4514: “std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::~basic_ostream”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(891): warning C4514: “std::basic_istream<char,std::char_traits<char>>::~basic_istream”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(891): warning C4514: “std::basic_istream<wchar_t,std::char_traits<wchar_t>>::~basic_istream”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(985): warning C4514: “std::basic_iostream<char,std::char_traits<char>>::~basic_iostream”: 未引用的内联函数已移除
+E:\vs2013\VC\include\istream(985): warning C4514: “std::basic_iostream<wchar_t,std::char_traits<wchar_t>>::~basic_iostream”: 未引用的内联函数已移除
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::begin(void) throw()”: 函数未内联
+          E:\vs2013\VC\include\xstring(1598) : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::begin”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::end(void) throw()”: 函数未内联
+          E:\vs2013\VC\include\xstring(1608) : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::end”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::falsename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(97) : 参见“std::numpunct<char>::falsename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::truename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(102) : 参见“std::numpunct<char>::truename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::falsename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(97) : 参见“std::numpunct<wchar_t>::falsename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::truename(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(102) : 参见“std::numpunct<wchar_t>::truename”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char>>::str(void) const”: 函数未内联
+          E:\vs2013\VC\include\sstream(92) : 参见“std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char>>::str”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::numpunct<char>::grouping(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(92) : 参见“std::numpunct<char>::grouping”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::string std::numpunct<wchar_t>::grouping(void) const”: 函数未内联
+          E:\vs2013\VC\include\xlocnum(92) : 参见“std::numpunct<wchar_t>::grouping”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::insert(std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>,_Elem)”: 函数未内联
+          with
+          [
+              _Elem=char
+          ]
+          E:\vs2013\VC\include\xstring(1293) : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::insert”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>> std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::insert(std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,_Elem)”: 函数未内联
+          with
+          [
+              _Elem=wchar_t
+          ]
+          E:\vs2013\VC\include\xstring(1293) : 参见“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::insert”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>> std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::end(void) throw()”: 函数未内联
+          E:\vs2013\VC\include\xstring(1608) : 参见“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::end”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>> std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::begin(void) throw()”: 函数未内联
+          E:\vs2013\VC\include\xstring(1598) : 参见“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::begin”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::_String_iterator<std::_String_val<std::_Simple_types<char>>>::operator +(__int64) const”: 函数未内联
+          E:\vs2013\VC\include\xstring(375) : 参见“std::_String_iterator<std::_String_val<std::_Simple_types<char>>>::operator +”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>> std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>::operator +(__int64) const”: 函数未内联
+          E:\vs2013\VC\include\xstring(375) : 参见“std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>::operator +”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “T cv::CommandLineParser::get<cv::String>(int,bool) const”: 函数未内联
+          with
+          [
+              T=cv::String
+          ]
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(711) : 参见“cv::CommandLineParser::get”的声明
+E:\vs2013\VC\include\vector(1009): warning C4710: “T cv::CommandLineParser::get<cv::String>(const cv::String &,bool) const”: 函数未内联
+          with
+          [
+              T=cv::String
+          ]
+          C:\Program Files (x86)\ZED SDK\dependencies\opencv_3.1.0\include\opencv2/core/utility.hpp(679) : 参见“cv::CommandLineParser::get”的声明
+  DBoW2.vcxproj -> C:\Users\FYJ\Desktop\ORB_SLAM2-master\Thirdparty\DBoW2\lib\Debug\DBoW2.dll
