@@ -2,9 +2,6 @@
 
 #orbslam2 on windows plantform.
 
-The face mapping sample uses the 3D Scan module to scan the user's face and then map it onto an existing 3D head model.
-This technique does a "stone face" mapping that is not rigged or currently capable of animating.
-
 windows-orbslam2 only use g2o and DBow2 library.To get my project more commonly used, i remove pangolin totally and due to 
 the reason that gcc Compiler is not compatible with vc for exapmle :"int size = 100; int a[size]" this is OK only compiled
 with gcc,i change those codes to "int *a = new int[size]." to make this project run successfully,i do not release those
